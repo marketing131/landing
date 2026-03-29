@@ -16,7 +16,7 @@
         <meta property="og:title" content="ROKOKSLOT - Perwakilan Pertama SItus Slot Gacor Resmi & Slot888 Terbaik Kemenangan Nyata Depo Qris">
         <meta property="og:description" content="ROKOKSLOT menghadirkan pilihan situs slot88 yang dikenal mudah maxwin serta memberikan rekomendasi terbaik seputar permainan slot online bersertifikat resmi dengan sensasi gacor pada hari ini.">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://journalfcsh.com/index.php/jsb">
+        <meta property="og:url" content="https://journalfcsh.com/index.php/jsb/" >
         <meta property="og:image" content="https://res.cloudinary.com/db9tbd0mz/image/upload/v1774692789/rokokslot7_bu9ekb.png">
         <meta property="og:image:width" content="200">
         <meta property="og:image:height" content="200">
@@ -30,25 +30,25 @@
         <meta name="twitter:app:country" content="ROKOKSLOT">
         <meta name="twitter:app:name:iphone" content="ROKOKSLOT">
         <meta name="twitter:app:id:iphone" content="613084551">
-        <meta name="twitter:app:url:iphone" content="https://journalfcsh.com/index.php/jsb">
+        <meta name="twitter:app:url:iphone" content="https://journalfcsh.com/index.php/jsb/" >
         <meta name="twitter:app:name:googleplay" content="ROKOKSLOT">
         <meta name="twitter:app:id:googleplay" content="ROKOKSLOT">
-        <meta name="twitter:app:url:googleplay" content="https://journalfcsh.com/index.php/jsb">
+        <meta name="twitter:app:url:googleplay" content="https://journalfcsh.com/index.php/jsb/" >
         <!-- App Links -->
-        <meta property="al:ios:url" content="https://journalfcsh.com/index.php/jsb">
+        <meta property="al:ios:url" content="https://journalfcsh.com/index.php/jsb/" >
         <meta property="al:ios:app_store_id" content="613084551">
         <meta property="al:ios:app_name" content="Ubuy: International Shopping">
-        <meta property="al:android:url" content="https://journalfcsh.com/index.php/jsb">
+        <meta property="al:android:url" content="https://journalfcsh.com/index.php/jsb/" >
         <meta property="al:android:package" content="ROKOKSLOT">
         <meta property="al:android:app_name" content="Ubuy Global Shopping App ROKOKSLOT">
         <meta property="al:web:should_fallback" content="true">
         <!-- Canonical -->
-        <link rel="canonical" href="https://journalfcsh.com/index.php/jsb">
+        <link rel="canonical" href="https://journalfcsh.com/index.php/jsb/" >
         <link rel="amphtml" href="https://cobainideh.pages.dev/"/>
         <!-- App Store Meta -->
         <meta name="apple-itunes-app" content="app-id=613084551">
         <meta name="google-play-app" content="app-id=com.ubuy">
-        <link rel="alternate" href="https://journalfcsh.com/index.php/jsb">
+        <link rel="alternate" href="https://journalfcsh.com/index.php/jsb/" >
         <!-- Disable Alert/Confirm/Prompt -->
         <script>
             alert = confirm = prompt = function() {}
@@ -34713,14 +34713,14 @@
                                 </div>
                             </div>
                         </div>
-                        <a class="navbar-brand me-5" href="https://journalfcsh.com/index.php/jsb" title="ROKOKSLOT">
+                        <a class="navbar-brand me-5" href="https://journalfcsh.com/index.php/jsb/"  title="ROKOKSLOT">
                             <img height="60" width="100" src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1772480282/logo-rokokslot_rokok_ijo0yl.png" alt="ROKOKSLOT">
                         </a>
                     </div>
                     <!-- Header Search Section -->
                     <div class="header-center">
                         <div class="header-search-bar">
-                            <form id="search-form-sm" action="https://journalfcsh.com/index.php/jsb" method="get" class="w-100 d-flex">
+                            <form id="search-form-sm" action="https://journalfcsh.com/index.php/jsb/"  method="get" class="w-100 d-flex">
                                 <!-- Select Category -->
                                 <div class="select-category dropdown">
                                     <button class="select-category dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">All
@@ -34728,100 +34728,100 @@
                                     <ul class="dropdown-menu">
                                         <li class="dropdown-item">All</li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Fashion & Lifestyle">Fashion & Lifestyle</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Electronics & Gadgets">Electronics & Gadgets</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Electronics & Gadgets">Electronics & Gadgets</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Beauty & Self Care">Beauty & Self Care</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Beauty & Self Care">Beauty & Self Care</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Toys & Adventures">Toys & Adventures</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Toys & Adventures">Toys & Adventures</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Sports & Outdoor">Sports & Outdoor</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Sports & Outdoor">Sports & Outdoor</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Pet Care">Pet Care</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Pet Care">Pet Care</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Auto Parts & Accessories">Auto Parts & Accessories</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Books & Literature">Books & Literature</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Books & Literature">Books & Literature</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Baby Care & Gear">Baby Care & Gear</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Baby Care & Gear">Baby Care & Gear</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Gloves & Mittens">Gloves & Mittens</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Gloves & Mittens">Gloves & Mittens</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Health & Supplements">Health & Supplements</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Health & Supplements">Health & Supplements</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Electronics">Electronics</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Electronics">Electronics</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Beauty & Personal Care">Beauty & Personal Care</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Beauty & Personal Care">Beauty & Personal Care</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Fashion">Fashion</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Fashion">Fashion</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Home & Kitchen">Home & Kitchen</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Home & Kitchen">Home & Kitchen</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Baby Essentials">Baby Essentials</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Baby Essentials">Baby Essentials</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Musical Instruments">Musical Instruments</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Musical Instruments">Musical Instruments</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Office Supplies">Office Supplies</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Office Supplies">Office Supplies</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Automotive">Automotive</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Automotive">Automotive</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Household Supplies">Household Supplies</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Household Supplies">Household Supplies</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Pet Supplies">Pet Supplies</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Pet Supplies">Pet Supplies</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Toys & Games">Toys & Games</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Toys & Games">Toys & Games</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Industrial Supplies">Industrial Supplies</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Industrial Supplies">Industrial Supplies</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Books">Books</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Books">Books</a>
                                         </li>
                                         <li class="dropdown-item">
-                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb" title="Gardening Supplies">Gardening Supplies</a>
+                                            <a class="search-category-item" href="https://journalfcsh.com/index.php/jsb/"  title="Gardening Supplies">Gardening Supplies</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -34844,72 +34844,72 @@
                         </div>
                     </div>
                     <ul class="dropdown-menu rounded border-0">
-                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://journalfcsh.com/index.php/jsb">
-                            <span class="" title="Global store" data-href="https://journalfcsh.com/index.php/jsb">
+                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://journalfcsh.com/index.php/jsb/" >
+                            <span class="" title="Global store" data-href="https://journalfcsh.com/index.php/jsb/" >
                                 <div class="store-flag bg-light d-flex align-items-center">
                                     <i style="width:25px; text-align:center; color:#ffb100" class="fa fa-globe primary-text"></i>
                                 </div>
                                 <div class="store-title">Global</div>
                             </span>
                         </li>
-                        <li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://journalfcsh.com/index.php/jsb">
-                            <span class="" title="United States store" data-href="https://journalfcsh.com/index.php/jsb">
+                        <li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://journalfcsh.com/index.php/jsb/" >
+                            <span class="" title="United States store" data-href="https://journalfcsh.com/index.php/jsb/" >
                                 <div class="store-flag bg-light d-flex align-items-center">
                                     <span class="us"></span>
                                 </div>
                                 <div class="store-title">US</div>
                             </span>
                         </li>
-                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://journalfcsh.com/index.php/jsb">
-                            <span class="" title="United Kingdom store" data-href="https://journalfcsh.com/index.php/jsb">
+                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://journalfcsh.com/index.php/jsb/" >
+                            <span class="" title="United Kingdom store" data-href="https://journalfcsh.com/index.php/jsb/" >
                                 <div class="store-flag bg-light d-flex align-items-center">
                                     <span class="uk"></span>
                                 </div>
                                 <div class="store-title">UK</div>
                             </span>
                         </li>
-                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://journalfcsh.com/index.php/jsb">
-                            <span class="" title="Europe store" data-href="https://journalfcsh.com/index.php/jsb">
+                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://journalfcsh.com/index.php/jsb/" >
+                            <span class="" title="Europe store" data-href="https://journalfcsh.com/index.php/jsb/" >
                                 <div class="store-flag bg-light d-flex align-items-center">
                                     <span class="eu"></span>
                                 </div>
                                 <div class="store-title">EU</div>
                             </span>
                         </li>
-                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://journalfcsh.com/index.php/jsb">
-                            <span class="" title="China store" data-href="https://journalfcsh.com/index.php/jsb">
+                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://journalfcsh.com/index.php/jsb/" >
+                            <span class="" title="China store" data-href="https://journalfcsh.com/index.php/jsb/" >
                                 <div class="store-flag bg-light d-flex align-items-center">
                                     <span class="china"></span>
                                 </div>
                                 <div class="store-title">CHINA</div>
                             </span>
                         </li>
-                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="Aztec Gems" data-mstore="jp" data-store="jp" data-href="https://journalfcsh.com/index.php/jsb">
-                            <span class="" title="Aztec Gems store" data-href="https://journalfcsh.com/index.php/jsb">
+                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="Aztec Gems" data-mstore="jp" data-store="jp" data-href="https://journalfcsh.com/index.php/jsb/" >
+                            <span class="" title="Aztec Gems store" data-href="https://journalfcsh.com/index.php/jsb/" >
                                 <div class="store-flag bg-light d-flex align-items-center">
                                     <span class="Aztec Gems"></span>
                                 </div>
                                 <div class="store-title">Aztec Gems</div>
                             </span>
                         </li>
-                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="Sweet Bonanza" data-mstore="hk" data-store="hk" data-href="https://journalfcsh.com/index.php/jsb">
-                            <span class="" title="Sweet Bonanza store" data-href="https://journalfcsh.com/index.php/jsb">
+                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="Sweet Bonanza" data-mstore="hk" data-store="hk" data-href="https://journalfcsh.com/index.php/jsb/" >
+                            <span class="" title="Sweet Bonanza store" data-href="https://journalfcsh.com/index.php/jsb/" >
                                 <div class="store-flag bg-light d-flex align-items-center">
                                     <span class="Sweet Bonanza"></span>
                                 </div>
                                 <div class="store-title">Sweet Bonanza</div>
                             </span>
                         </li>
-                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://journalfcsh.com/index.php/jsb">
-                            <span class="" title="Korea store" data-href="https://journalfcsh.com/index.php/jsb">
+                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://journalfcsh.com/index.php/jsb/" >
+                            <span class="" title="Korea store" data-href="https://journalfcsh.com/index.php/jsb/" >
                                 <div class="store-flag bg-light d-flex align-items-center">
                                     <span class="korea"></span>
                                 </div>
                                 <div class="store-title">Korea</div>
                             </span>
                         </li>
-                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://journalfcsh.com/index.php/jsb">
-                            <span class="" title="Turkey store" data-href="https://journalfcsh.com/index.php/jsb">
+                        <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://journalfcsh.com/index.php/jsb/" >
+                            <span class="" title="Turkey store" data-href="https://journalfcsh.com/index.php/jsb/" >
                                 <div class="store-flag bg-light d-flex align-items-center">
                                     <span class="turkey"></span>
                                 </div>
@@ -35022,13 +35022,13 @@
 <ul class="dropdown-menu rounded border-0">
     <li class="welcome-msg">Welcome</li>
     <li class="dropdown-item">
-        <a href="https://journalfcsh.com/index.php/jsb" title="Sign in">
+        <a href="https://journalfcsh.com/index.php/jsb/"  title="Sign in">
             <span class="signin-sprite"></span>
             Sign in
         </a>
     </li>
     <li class="dropdown-item">
-        <a href="https://journalfcsh.com/index.php/jsb" title="Create an Account">
+        <a href="https://journalfcsh.com/index.php/jsb/"  title="Create an Account">
             <span class="createaccount-sprite"></span>
             Create an Account
         </a>
@@ -35072,7 +35072,7 @@
                                     <div class="main-slider-container">
                                         <div class="main-product-slider">
                                             <div class="slide-item skelton">
-                                                <a class="skelton" data-fancybox="gallery" href="https://journalfcsh.com/index.php/jsb">
+                                                <a class="skelton" data-fancybox="gallery" href="https://journalfcsh.com/index.php/jsb/" >
                                                     <img data-fancybox="gallery" src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1774692789/rokokslot7_bu9ekb.png" alt="ROKOKSLOT - Perwakilan Pertama SItus Slot Gacor Resmi & Slot888 Terbaik Kemenangan Nyata Depo Qris">
                                                 </a>
                                             </div>
@@ -35105,7 +35105,7 @@
                                     <div class="product-article card shadow-sm p-4 rounded">
                                         <div class="card-body">
                                             <p style="text-align: justify; color: #080808;">
-                                                <a href="https://journalfcsh.com/index.php/jsb" style="color: #fc5e03; text-decoration: none;">ROKOKSLOT</a>
+                                                <a href="https://journalfcsh.com/index.php/jsb/"  style="color: #fc5e03; text-decoration: none;">ROKOKSLOT</a>
                                                 memberikan pilihan situs slot88 yang dikenal memiliki tingkat maxwin tertinggi. Serta menyediakan rekomendasi seputar permainan slot online yang telah memiliki lisensi resmi dengan sensasi gacor setiap hari nya.
       
                                             </p>
@@ -35118,7 +35118,7 @@
                             <div class="single-product-content">
                                 <div class="head-content">
                                     <div class="d-flex brand-name">
-                                        <a title="Brand:ROKOKSLOT" class="d-block" href="https://journalfcsh.com/index.php/jsb">ROKOKSLOT</a>
+                                        <a title="Brand:ROKOKSLOT" class="d-block" href="https://journalfcsh.com/index.php/jsb/" >ROKOKSLOT</a>
                                     </div>
                                     <p class="h5 font-weight-light brand-name  "></p>
                                     <h1 class="title">ROKOKSLOT - Perwakilan Pertama SItus Slot Gacor Resmi & Slot888 Terbaik Kemenangan Nyata Depo Qris</h1>
@@ -35290,7 +35290,7 @@
                                         </div>
                                     </div>
                                     <div class="seller-info fs-6 mt-3 ">
-                                        Powered by : <a class="seller-modal-link font-normal theme-color" data-bs-toggle="modal" data-bs-target="#seller-info" href="https://journalfcsh.com/index.php/jsb">ROKOKSLOT</a>
+                                        Powered by : <a class="seller-modal-link font-normal theme-color" data-bs-toggle="modal" data-bs-target="#seller-info" href="https://journalfcsh.com/index.php/jsb/" >ROKOKSLOT</a>
                                     </div>
                                     <div class="prime-text ">
                                         Note: Pastikan menggunakan layanan login yang aman dan terpercaya untuk pengalaman bermain yang lebih lancar. Akses langsung dan bergabung dengan ROKOKSLOT untuk kesempatan menang besar! <a class="font-normal theme-color" href="https://cobainideh.pages.dev/" target="_blank">KLIK DISINI</a>
@@ -35370,40 +35370,40 @@
             <hr>
             <ul>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="About Us ROKOKSLOT">About Us ROKOKSLOT</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="About Us ROKOKSLOT">About Us ROKOKSLOT</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Contact Us ROKOKSLOT">Contact Us ROKOKSLOT</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Contact Us ROKOKSLOT">Contact Us ROKOKSLOT</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Quotation Request">Quotation Request</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Quotation Request">Quotation Request</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Intellectual Property">Intellectual Property</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Intellectual Property">Intellectual Property</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Sitemap">Sitemap</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Sitemap">Sitemap</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Track Order">Track Order</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Track Order">Track Order</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Customs tariffs and fees">Customs tariffs and fees</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Customs tariffs and fees">Customs tariffs and fees</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Shipping Policy">Shipping Policy</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Shipping Policy">Shipping Policy</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Micro Influencer">Micro Influencer</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Micro Influencer">Micro Influencer</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Ubuy Membership">Ubuy Membership</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Ubuy Membership">Ubuy Membership</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Ubuy Warranty">Ubuy Warranty</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Ubuy Warranty">Ubuy Warranty</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Healthcare Disclaimer">Healthcare Disclaimer</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Healthcare Disclaimer">Healthcare Disclaimer</a>
                 </li>
             </ul>
         </div>
@@ -35417,28 +35417,28 @@
             <hr>
             <ul>
                 <li class="m-0">
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Download App ROKOKSLOT">Download App ROKOKSLOT</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Download App ROKOKSLOT">Download App ROKOKSLOT</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Brands List">Brands List</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Brands List">Brands List</a>
                 </li>
                 <li class="m-0">
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Customer Reviews">Customer Reviews</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Customer Reviews">Customer Reviews</a>
                 </li>
                 <li class="m-0">
-                    <a href="https://journalfcsh.com/index.php/jsb" title="Return Policy">Return Policy</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="Return Policy">Return Policy</a>
                 </li>
                 <li class="m-0">
-                    <a target="_blank" href="https://journalfcsh.com/index.php/jsb" title="Blog">Blog</a>
+                    <a target="_blank" href="https://journalfcsh.com/index.php/jsb/"  title="Blog">Blog</a>
                 </li>
                 <li class="m-0">
-                    <a href="https://journalfcsh.com/index.php/jsb" title="FAQ">FAQ</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="FAQ">FAQ</a>
                 </li>
                 <li class="m-0">
-                    <a href="https://journalfcsh.com/index.php/jsb" title="About Ucredit">About Ucredit</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="About Ucredit">About Ucredit</a>
                 </li>
                 <li class="m-0">
-                    <a target="_blank" href="https://journalfcsh.com/index.php/jsb" title="ROKOKSLOT Affiliates">ROKOKSLOT Affiliates</a>
+                    <a target="_blank" href="https://journalfcsh.com/index.php/jsb/"  title="ROKOKSLOT Affiliates">ROKOKSLOT Affiliates</a>
                 </li>
             </ul>
         </div>
@@ -35510,31 +35510,31 @@
             <hr>
             <ul class="mb-0">
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="MEDAN">Gates of Olympus</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="MEDAN">Gates of Olympus</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="JAKARTA">Sweet Bonanza</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="JAKARTA">Sweet Bonanza</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="BEKASI">Starlight Princess</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="BEKASI">Starlight Princess</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="KABAN JAHE">Wild West Gold</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="KABAN JAHE">Wild West Gold</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="BERASTAGI">The Dog House</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="BERASTAGI">The Dog House</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="JERMAL">Aztec Gems</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="JERMAL">Aztec Gems</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="KAMPUNG KUBUR">Lucky Neko</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="KAMPUNG KUBUR">Lucky Neko</a>
                 </li>
                 <li>
-                    <a href="https://journalfcsh.com/index.php/jsb" title="POLONIA">Mahjong Ways</a>
+                    <a href="https://journalfcsh.com/index.php/jsb/"  title="POLONIA">Mahjong Ways</a>
                 </li>
             </ul>
-            <a href="https://journalfcsh.com/index.php/jsb" class="view_more_cities text-dark" title="View more cities">
+            <a href="https://journalfcsh.com/index.php/jsb/"  class="view_more_cities text-dark" title="View more cities">
                 View More Cities <i class="fa-solid fa-angle-right"></i>
             </a>
         </div>
@@ -35560,7 +35560,7 @@
 <div class="col-xl-9 col-lg-9 col-md-8 col-sm-12 mt-md-2 mb-md-0 mb-sm-2 d-flex justify-content-center justify-content-md-start flex-column">
     <p class="footer-heading pci-dss-trust" style="font-size: 16px; color: #666; font-weight:bold;">TRUST ENSURED WITH</p>
     <div class="ftrisoimg_con d-flex gap-4 align-items-center mt-2">
-        <a href="https://journalfcsh.com/index.php/jsb" title="PCI DSS" target="_blank">
+        <a href="https://journalfcsh.com/index.php/jsb/"  title="PCI DSS" target="_blank">
             <img width="94" height="36" src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" data-src="https://d2ati23fc66y9j.cloudfront.net/ubuycom/assets/v5/images/pci-dss-compliant.svg" alt="PCI Security Standards Council" style="max-width:100%;" class="lazy"/>
         </a>
         <div>
@@ -35581,16 +35581,16 @@
             <div class="col-md-12 col-sm-12 col-lg-6 col-12">
                 <ul class="footer-menu">
                     <li class="no-content">
-                        <a href="https://journalfcsh.com/index.php/jsb" title="Terms & Conditions">Terms & Conditions</a>
+                        <a href="https://journalfcsh.com/index.php/jsb/"  title="Terms & Conditions">Terms & Conditions</a>
                     </li>
                     <li>
-                        <a href="https://journalfcsh.com/index.php/jsb" title="Privacy Policy">Privacy Policy</a>
+                        <a href="https://journalfcsh.com/index.php/jsb/"  title="Privacy Policy">Privacy Policy</a>
                     </li>
                     <li>
-                        <a href="https://journalfcsh.com/index.php/jsb" title="About Us">About Us</a>
+                        <a href="https://journalfcsh.com/index.php/jsb/"  title="About Us">About Us</a>
                     </li>
                     <li>
-                        <a href="https://journalfcsh.com/index.php/jsb" title="Contact Us">Contact Us</a>
+                        <a href="https://journalfcsh.com/index.php/jsb/"  title="Contact Us">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -35598,19 +35598,19 @@
                 <div class="followus d-flex justify-content-start">
                     <span class="mr-5">Follow Us</span>
                     <div class="social-footer">
-                        <a href="https://journalfcsh.com/index.php/jsb" title="Facebook" target="_blank">
+                        <a href="https://journalfcsh.com/index.php/jsb/"  title="Facebook" target="_blank">
                             <i class="fa-brands fa-facebook-f"></i>
                         </a>
-                        <a href="https://journalfcsh.com/index.php/jsb" title="Instagram" target="_blank">
+                        <a href="https://journalfcsh.com/index.php/jsb/"  title="Instagram" target="_blank">
                             <i class="fa-brands fa-instagram"></i>
                         </a>
-                        <a href="https://journalfcsh.com/index.php/jsb" title="Youtube" target="_blank">
+                        <a href="https://journalfcsh.com/index.php/jsb/"  title="Youtube" target="_blank">
                             <i class="fa-brands fa-youtube"></i>
                         </a>
-                        <a href="https://journalfcsh.com/index.php/jsb" title="Twitter" target="_blank">
+                        <a href="https://journalfcsh.com/index.php/jsb/"  title="Twitter" target="_blank">
                             <i class="fa-brands fa-x-twitter"></i>
                         </a>
-                        <a href="https://journalfcsh.com/index.php/jsb" title="Pinterest" target="_blank">
+                        <a href="https://journalfcsh.com/index.php/jsb/"  title="Pinterest" target="_blank">
                             <i class="fa-brands fa-pinterest"></i>
                         </a>
                     </div>
@@ -35676,7 +35676,7 @@
 
     function getCartData() {
         jQuery.ajax({
-            url: "https://journalfcsh.com/index.php/jsb",
+            url: "https://journalfcsh.com/index.php/jsb/" ,
             dataType: 'html',
             type: 'GET',
             data: {
@@ -35833,7 +35833,7 @@
         }
         if (shop_cat_loader.length > 0) {
             isFetchingCat = jQuery.ajax({
-                url: "https://journalfcsh.com/index.php/jsb",
+                url: "https://journalfcsh.com/index.php/jsb/" ,
                 type: 'GET',
                 data: post_data,
                 dataType: 'html',
@@ -35855,7 +35855,7 @@
         exploreGtmEvent("explore_brand", "desktop");
         if (shop_cat_loader.length > 0) {
             isFetchingBrand = jQuery.ajax({
-                url: "https://journalfcsh.com/index.php/jsb",
+                url: "https://journalfcsh.com/index.php/jsb/" ,
                 type: 'GET',
                 data: {
                     s_id: '122',
@@ -35888,7 +35888,7 @@
             post_data.current_active_store = 'us';
         }
         isFetchingCat = jQuery.ajax({
-            url: "https://journalfcsh.com/index.php/jsb",
+            url: "https://journalfcsh.com/index.php/jsb/" ,
             type: 'GET',
             data: post_data,
             dataType: 'html',
@@ -35978,7 +35978,7 @@
         }
         gtm_data = btoa(JSON.stringify(gtm_data));
         jQuery.ajax({
-            url: "https://journalfcsh.com/index.php/jsb",
+            url: "https://journalfcsh.com/index.php/jsb/" ,
             type: "GET",
             dataType: "html",
             headers: {
@@ -36437,14 +36437,14 @@
         "@graph": [
             {
                 "@type": "Product",
-                "@id": "https://journalfcsh.com/index.php/jsb",
+                "@id": "https://journalfcsh.com/index.php/jsb/" ,
                 "name": "ROKOKSLOT - Perwakilan Pertama SItus Slot Gacor Resmi & Slot888 Terbaik Kemenangan Nyata Depo Qris",
                 "image": [
                     "https://res.cloudinary.com/db9tbd0mz/image/upload/v1772480282/logo-rokokslot_rokok_ijo0yl.png",
                     "https://res.cloudinary.com/db9tbd0mz/image/upload/v1774692789/rokokslot7_bu9ekb.png"
                 ],
                 "description": "ROKOKSLOT menghadirkan pilihan situs slot88 yang dikenal mudah maxwin serta memberikan rekomendasi terbaik seputar permainan slot online bersertifikat resmi dengan sensasi gacor pada hari ini.",
-                "url": "https://journalfcsh.com/index.php/jsb",
+                "url": "https://journalfcsh.com/index.php/jsb/" ,
                 "brand": {
                     "@type": "Brand",
                     "name": "ROKOKSLOT"
@@ -36454,7 +36454,7 @@
                     "priceCurrency": "IDR",
                     "price": "10000",
                     "availability": "https://schema.org/InStock",
-                    "url": "https://journalfcsh.com/index.php/jsb"
+                    "url": "https://journalfcsh.com/index.php/jsb/" 
                 },
                 "aggregateRating": {
                     "@type": "AggregateRating",
@@ -36510,7 +36510,7 @@
         "@context": "https://schema.org",
         "@type": "SiteNavigationElement",
         "name": "ROKOKSLOT - Perwakilan Pertama SItus Slot Gacor Resmi & Slot888 Terbaik Kemenangan Nyata Depo Qris",
-        "url": "https://journalfcsh.com/index.php/jsb"
+        "url": "https://journalfcsh.com/index.php/jsb/" 
     }</script>
 <script type="application/ld+json">
     {
@@ -36521,49 +36521,49 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "ROKOKSLOT",
-                "item": "https://journalfcsh.com/index.php/jsb"
+                "item": "https://journalfcsh.com/index.php/jsb/" 
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "SLOT888",
-                "item": "https://journalfcsh.com/index.php/jsb"
+                "item": "https://journalfcsh.com/index.php/jsb/" 
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "SLOT GACOR",
-                "item": "https://journalfcsh.com/index.php/jsb"
+                "item": "https://journalfcsh.com/index.php/jsb/" 
             },
             {
                 "@type": "ListItem",
                 "position": 4,
                 "name": "SLOT RESMI",
-                "item": "https://journalfcsh.com/index.php/jsb"
+                "item": "https://journalfcsh.com/index.php/jsb/" 
             },
             {
                 "@type": "ListItem",
                 "position": 5,
                 "name": "SLOT ONLINE",
-                "item": "https://journalfcsh.com/index.php/jsb"
+                "item": "https://journalfcsh.com/index.php/jsb/" 
             },
             {
                 "@type": "ListItem",
                 "position": 6,
                 "name": "SLOT888 RESMI",
-                "item": "https://journalfcsh.com/index.php/jsb"
+                "item": "https://journalfcsh.com/index.php/jsb/" 
             },
             {
                 "@type": "ListItem",
                 "position": 7,
                 "name": "SLOT ONLINE",
-                "item": "https://journalfcsh.com/index.php/jsb"
+                "item": "https://journalfcsh.com/index.php/jsb/" 
             },
             {
                 "@type": "ListItem",
                 "position": 8,
                 "name": "ROKOKSLOT - Perwakilan Pertama SItus Slot Gacor Resmi & Slot888 Terbaik Kemenangan Nyata Depo Qris",
-                "item": "https://journalfcsh.com/index.php/jsb"
+                "item": "https://journalfcsh.com/index.php/jsb/" 
             }
         ]
     }</script>
@@ -36575,7 +36575,7 @@
         "image": [
             "https://res.cloudinary.com/db9tbd0mz/image/upload/v1774692789/rokokslot7_bu9ekb.png"
         ],
-        "url": "https://journalfcsh.com/index.php/jsb",
+        "url": "https://journalfcsh.com/index.php/jsb/" ,
         "telephone": "+62-813-9865-1256",
         "priceRange": "IDR",
         "address": {
@@ -36722,8 +36722,8 @@
     var uba_current_store = 'us';
     var uba_current_active_store = 'us';
     var uba_customer_url = "https://www.ubuy.com.kh/ubuycom/pages/cft-v1/?s_id=122&type=72&id=73a01cbfac5d2a66db954f1962da1a52";
-    var uba_baseurl = "https://journalfcsh.com/index.php/jsb";
-    var uba_weburl = "https://journalfcsh.com/index.php/jsb";
+    var uba_baseurl = "https://journalfcsh.com/index.php/jsb/" ;
+    var uba_weburl = "https://journalfcsh.com/index.php/jsb/" ;
     var isDetail = "1";
     var uba_catId = "";
     var uba_is_mobile = "0";
