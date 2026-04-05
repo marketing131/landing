@@ -44,9 +44,9 @@
     <meta property="og:site_name" content="Kompas.com" />
     <meta property="fb:app_id" content="324557847592228" />
     	<meta property="og:locale" content="id_ID" />
-  <link rel="alternate" hreflang="id-id" href="https://iniyangpertama.pages.dev/"/>
+  <link rel="alternate" hreflang="id-id" href="https://janganpatahsemangat.pages.dev/"/>
   <link rel="alternate" href="https://ejournal.jalancendikia.org/"/>
-  <link rel="alternate" hreflang="id" href="https://iniyangpertama.pages.dev/"/>
+  <link rel="alternate" hreflang="id" href="https://janganpatahsemangat.pages.dev/"/>
   <link rel="alternate" hreflang="en" href="https://ejournal.jalancendikia.org/"/>
   <link rel="alternate" hreflang="x-default" href="https://ejournal.jalancendikia.org/"/>
     <meta name="twitter:card" content="summary_large_image" />
@@ -79,7 +79,7 @@
     <meta name="content_total_pages" content="1" />
     <meta name="content_current_page" content="1" />
     <link rel="prefetch" href="https://ejournal.jalancendikia.org/" as="document" />
-    <link rel="https://res.cloudinary.com/db9tbd0mz/image/upload/v1773800687/rokokslot_mbnfes.pnghtml" href="https://iniyangpertama.pages.dev/" />
+    <link rel="https://res.cloudinary.com/db9tbd0mz/image/upload/v1773800687/rokokslot_mbnfes.pnghtml" href="https://janganpatahsemangat.pages.dev/" />
     <link rel="preload" as="image" href="https://res.cloudinary.com/db9tbd0mz/image/upload/v1775331556/Gemini_Generated_Image_hkyjr6hkyjr6hkyj_q6hyvp.png">
     <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
     <link rel="canonical" href="https://ejournal.jalancendikia.org/" />
@@ -1006,7 +1006,7 @@
                             </div>
                             <!-- <div class="loyalty__link" id="loyalty_koin" style="display: none"><a href="https://play.kompas.com/loyalty"><span class="icon-svg icon-koin"></span><span class="loyalty__link__text">Koin</span><i class="loyalty__link__badge active"></i></a></div> -->
                             <!-- play icon -->
-                            <div class="menu-item menu-plus"> <a href="https://iniyangpertama.pages.dev/"
+                            <div class="menu-item menu-plus"> <a href="https://janganpatahsemangat.pages.dev/"
                                     class="button-default active" role="link" id="menu-plus" aria-label="ROKOKSLOT">
                                     <span class="icon-svg icon-plus" aria-hidden="true"> <img
                                             src="https://asset.kompas.com/data/2025/03/05/1535/icon-kplus.gif"
@@ -1014,7 +1014,7 @@
                             <div class="sso__header col-bs12-4">
                                 <ul class="sso__wrap">
                                     <li class="sso__item"> <a class="sso__link sso__link__icon js-sso-user"
-                                            href="https://iniyangpertama.pages.dev/" rel="nofollow"> <i
+                                            href="https://janganpatahsemangat.pages.dev/" rel="nofollow"> <i
                                                 class="sso__icon__login" id="sso__icon__login_top"></i> <i
                                                 class="sso__badge" style="display: none;"></i> </a>
                                         <div class="sso__option -fixed -hide js-sso-user-board">
@@ -1024,7 +1024,7 @@
                                                         <span> <i class="sso__icon__login"></i> Login </span> </a> </li>
                                                 <li></li>
                                                 <!-- <li><a href="https://activity.kompas.com/voucher?source=navbar" class="myvalue__btn -new"><span><div class="myvalue__icon"><img class="lozad" data-src="https://asset.kompas.com/data/2024/myvalue/desktop/images/icon-myvalue.png" alt=""></div> Voucher</span><div class="myvalue__btn__wrap"><div class="myvalue__icon"><img class="lozad" data-src="https://asset.kompas.com/data/2024/myvalue/desktop/images/icon-myvalue-gif" alt=""></div><span>Ada voucher buat kamu</span></div></a></li> -->
-                                                <li> <a href="https://iniyangpertama.pages.dev/"> <span> <i
+                                                <li> <a href="https://janganpatahsemangat.pages.dev/"> <span> <i
                                                                 class="sso__icon__subscription"></i> Join Bersama RTP
                                                             SLOT <i class="sso__badge__inline"></i> </span> </a> </li>
                                                 <li></li>
@@ -1049,7 +1049,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="kid__wrap"> <a target="_blank" href="https://iniyangpertama.pages.dev/"
+                            <div class="kid__wrap"> <a target="_blank" href="https://janganpatahsemangat.pages.dev/"
                                     rel="nofollow" class="kid__button">RTP SLOT TERUPDATE</a> </div>
                         </div>
                     </div>
@@ -1723,7 +1723,7 @@
                                 </li>
                             </ul>
                         </li>
-                    </ul> <a href="https://iniyangpertama.pages.dev/" rel="nofollow" class="menu-plus-sticky">Membership
+                    </ul> <a href="https://janganpatahsemangat.pages.dev/" rel="nofollow" class="menu-plus-sticky">Membership
                         ROKOKSLOT</a> <!-- css sublink nav -->
                     <link rel="stylesheet"
                         href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
@@ -1847,8 +1847,8 @@
 </h1>
                 </div>
             </div> <!-- read-->
-            <div class="n-columns-2"> <a href="https://iniyangpertama.pages.dev/" rel="nofollow noreferrer"
-                    class="login">LOGIN</a> <a href="https://iniyangpertama.pages.dev/" rel="nofollow noreferrer"
+            <div class="n-columns-2"> <a href="https://janganpatahsemangat.pages.dev/" rel="nofollow noreferrer"
+                    class="login">LOGIN</a> <a href="https://janganpatahsemangat.pages.dev/" rel="nofollow noreferrer"
                     class="register">REGISTER</a> </div> </br>
             <div class="flex gap-10" id="product-detail">
                 <div class="w-full overflow-auto">
@@ -2011,7 +2011,7 @@
                                                             <div class="most__countmost__count"
                                                                 style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 1 </div> <a class="most__link"
-                                                                href="https://iniyangpertama.pages.dev/">
+                                                                href="https://janganpatahsemangat.pages.dev/">
                                                                 <div class="most__title">Pak De Imin: Sarana Bermain Dengan
                                                                     Sensasi Maxwin Tanpa Batas</div>
                                                             </a>
@@ -2020,7 +2020,7 @@
                                                             <div class="most__countmost__count"
                                                                 style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 2 </div> <a class="most__link"
-                                                                href="https://iniyangpertama.pages.dev/">
+                                                                href="https://janganpatahsemangat.pages.dev/">
                                                                 <div class="most__title">Narji: Tempat Bermain situs slot paling
                                                                     ringan dan juga modern cuma disini</div>
                                                             </a>
@@ -2029,7 +2029,7 @@
                                                             <div class="most__countmost__count"
                                                                 style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 3 </div> <a class="most__link"
-                                                                href="https://iniyangpertama.pages.dev/">
+                                                                href="https://janganpatahsemangat.pages.dev/">
                                                                 <div class="most__title">Labisa: Rtp slot88 paling akurat
                                                                     dan update bener gokil dan bisa diandalkan
                                                                 </div>
@@ -2039,7 +2039,7 @@
                                                             <div class="most__countmost__count"
                                                                 style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 4 </div> <a class="most__link"
-                                                                href="https://iniyangpertama.pages.dev/">
+                                                                href="https://janganpatahsemangat.pages.dev/">
                                                                 <div class="most__title">Aura: Pertama kali bisa
                                                                     dapat maxwin cuma di Rokokslot ini</div>
                                                             </a>
@@ -2048,7 +2048,7 @@
                                                             <div class="most__countmost__count"
                                                                 style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 5 </div> <a class="most__link"
-                                                                href="https://iniyangpertama.pages.dev/">
+                                                                href="https://janganpatahsemangat.pages.dev/">
                                                                 <div class="most__title">Junaide: Sangat
                                                                     direkomendasikan untuk main slot88 disini.</div>
                                                             </a>
@@ -2057,7 +2057,7 @@
                                                             <div class="most__countmost__count"
                                                                 style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 6 </div> <a class="most__link"
-                                                                href="https://iniyangpertama.pages.dev/">
+                                                                href="https://janganpatahsemangat.pages.dev/">
                                                                 <div class="most__title">Vido: Modal 10.000 rupiah saja sudah bisa memainkan semua permainan slot online yang tersedia disini.</div>
                                                             </a>
                                                         </div>
@@ -2065,7 +2065,7 @@
                                                             <div class="most__countmost__count"
                                                                 style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 7 </div> <a class="most__link"
-                                                                href="https://iniyangpertama.pages.dev/">
+                                                                href="https://janganpatahsemangat.pages.dev/">
                                                                 <div class="most__title">Jushoa: Server nya
                                                                     gaperlu diraguin lagi gampang banget dapat
                                                                     jackpot nya hanya dengan 1x spin.</div>
@@ -2075,7 +2075,7 @@
                                                             <div class="most__countmost__count"
                                                                 style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 8 </div> <a class="most__link"
-                                                                href="https://iniyangpertama.pages.dev/">
+                                                                href="https://janganpatahsemangat.pages.dev/">
                                                                 <div class="most__title">Kamirun: Pelayanan nya cepet
                                                                     dan juga ramah bintang 5 untuk situs Rokokslot ini</div>
                                                             </a>
@@ -2084,7 +2084,7 @@
                                                             <div class="most__countmost__count"
                                                                 style=" background-color: #663d11;color: #fff;width: 40px;height: 40px;display: flex;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;font-size: 18px;">
                                                                 9 </div> <a class="most__link"
-                                                                href="https://iniyangpertama.pages.dev/">
+                                                                href="https://janganpatahsemangat.pages.dev/">
                                                                 <div class="most__title">Milea: Lisensi nya resmi dan terpercaya,
                                                                     Pilihan permainan nya juga banyak dan beragam</div>
                                                             </a>
@@ -2305,7 +2305,7 @@
                                                         <div class="footerNewsletter-title"> Daftar Dan Bergabung Segera
                                                             Dan Raih Bonus Menarik</div>
                                                         <div class="footerNewsletter-cta"> <a
-                                                                href="https://iniyangpertama.pages.dev/"
+                                                                href="https://janganpatahsemangat.pages.dev/"
                                                                 class="footerNewsletter-link" rel="nofollow"> <i
                                                                     class="iconNewsletter"></i> DAFTAR </a> </div>
                                                     </div>
@@ -2730,13 +2730,13 @@
                                         </div>
                                         <div class="kgmModal-footer">
                                             <div class="form-row-big">
-                                                <div class="form-row"> <a href="https://iniyangpertama.pages.dev/"
+                                                <div class="form-row"> <a href="https://janganpatahsemangat.pages.dev/"
                                                         class="button -transparent" id="kgmModal-btn-dismiss"
                                                         data-event-category="popup_boostnotification"
                                                         data-event-action="close_popup_boostnotif"
                                                         data-event-label="popup_boostnotif"
                                                         data-event-track="click">Nanti lagi</a> </div>
-                                                <div class="form-row"> <a href="https://iniyangpertama.pages.dev/"
+                                                <div class="form-row"> <a href="https://janganpatahsemangat.pages.dev/"
                                                         class="button -primary" id="kgmModal-btn-notif"
                                                         data-event-category="popup_boostnotification"
                                                         data-event-action="click_popup_boostnotif"
