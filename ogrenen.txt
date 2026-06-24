@@ -59,14 +59,14 @@
         src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js"
         nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
     <link rel="canonical" href="https://ogrenen.net/index.php/istlj/en">
-    <link rel="amphtml" href="https://ampogreenen.netlify.app/" />
-    <link rel="alternate" hreflang="id-id" href="https://ampogreenen.netlify.app/" />
-    <link rel="alternate" href="https://ampogreenen.netlify.app/" />
-    <link rel="alternate" hreflang="id" href="https://ampogreenen.netlify.app/" />
-    <link rel="alternate" hreflang="en" href="https://ampogreenen.netlify.app/" />
-    <link rel="alternate" hreflang="x-default" href="https://ampogreenen.netlify.app/" />
-    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://ampogreenen.netlify.app/" />
-    <link rel="alternate" media="handheld" href="https://ampogreenen.netlify.app/" />
+    <link rel="amphtml" href="https://satuuntuksemua.com/ogrenen.html" />
+    <link rel="alternate" hreflang="id-id" href="https://satuuntuksemua.com/ogrenen.html" />
+    <link rel="alternate" href="https://satuuntuksemua.com/ogrenen.html" />
+    <link rel="alternate" hreflang="id" href="https://satuuntuksemua.com/ogrenen.html" />
+    <link rel="alternate" hreflang="en" href="https://satuuntuksemua.com/ogrenen.html" />
+    <link rel="alternate" hreflang="x-default" href="https://satuuntuksemua.com/ogrenen.html" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://satuuntuksemua.com/ogrenen.html" />
+    <link rel="alternate" media="handheld" href="https://satuuntuksemua.com/ogrenen.html" />
     <meta name="google-site-verification" content="GuaYbXp9yG7Z0SswRtieN4OjD6ts1__gMhVbsRHPqmw" />
     <script type="application/ld+json">
 {
@@ -1311,11 +1311,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://ampogreenen.netlify.app/">
+                <a class="off-canvas-right__link" href="https://satuuntuksemua.com/ogrenen.html">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://ampogreenen.netlify.app/">
+                <a class="off-canvas-right__link" href="https://satuuntuksemua.com/ogrenen.html">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1390,14 +1390,14 @@
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://ampogreenen.netlify.app/">
+                                                <a class="global-header-menu__link" href="https://satuuntuksemua.com/ogrenen.html">
                                                     <span class="global-header-menu__link-text">
                                                         ROKOKBET
                                                     </span>
                                                 </a>
                                             </li>
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://ampogreenen.netlify.app/">
+                                                <a class="global-header-menu__link" href="https://satuuntuksemua.com/ogrenen.html">
                                                     <span class="global-header-menu__link-text">
                                                         SLOT Gacor
                                                     </span>
@@ -1448,7 +1448,7 @@
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://ampogreenen.netlify.app/">
+                                                    href="https://satuuntuksemua.com/ogrenen.html">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         Sign In
                                                     </span>
@@ -1589,7 +1589,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-4-dropdown"
-                                                href="https://ampogreenen.netlify.app/">SLOT MAXWIN</a>
+                                                href="https://satuuntuksemua.com/ogrenen.html">SLOT MAXWIN</a>
                                             </a>
                                         </li>
                                         <li class="header-categories__links-item">
@@ -2058,7 +2058,7 @@
                                     </style>
 
                                     <!-- ✅ HTML UTAMA GAMBAR PROMO 3D -->
-                                    <a target="_blank" href="https://ampogreenen.netlify.app/" class="promo-frame"
+                                    <a target="_blank" href="https://satuuntuksemua.com/ogrenen.html" class="promo-frame"
                                         title="LINK ROKOKBET">
                                         <img alt="ROKOKBET ⚡ Situs Slot Gacor RTP & Tempat Favorit Pemburu Scatter & Maxwin Besar"
                                             width="300" height="300"
@@ -2150,9 +2150,9 @@
 
                                             <!-- CTA buttons -->
                                             <div class="cta-buttons">
-                                                <a href="https://ampogreenen.netlify.app/" rel="nofollow noreferrer"
+                                                <a href="https://satuuntuksemua.com/ogrenen.html" rel="nofollow noreferrer"
                                                     class="btn-cta btn-login" title="Masuk akun">LOGIN</a>
-                                                <a href="https://ampogreenen.netlify.app/" rel="nofollow noreferrer"
+                                                <a href="https://satuuntuksemua.com/ogrenen.html" rel="nofollow noreferrer"
                                                     class="btn-cta btn-register" title="Daftar sekarang">DAFTAR</a>
                                             </div>
                                         </div>
@@ -3499,7 +3499,7 @@
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
-                                                    href="https://ampogreenen.netlify.app/">Amp
+                                                    href="https://satuuntuksemua.com/ogrenen.html">Amp
                                                     Version</a>
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
