@@ -134,7 +134,7 @@
       "@type": "Review",
       "author": {
         "@type": "Person",
-        "name": ""
+        "name": "Rangga"
       },
       "datePublished": "2026-05-21",
       "reviewBody": "Customer service rokokbet cukup responsif. Ketika saya mengalami kendala pada akun, tim mereka langsung memberikan solusi dengan cepat dan jelas. Pelayanannya profesional.",
