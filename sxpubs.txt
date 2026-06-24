@@ -1,0 +1,592 @@
+
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Destinasi Situs Togel Online Terbaru - Rokokbet Situs 10000k Toto Togel 4d Mudah Menang</title>
+  <meta name="title" content="Destinasi Situs Togel Online Terbaru - Rokokbet Situs 10000k Toto Togel 4d Mudah Menang">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://sxpubs.co.in/">
+<link rel="amphtml" href="https://ampsxpubs.pages.dev/">
+<link rel="alternate" href="https://ampsxpubs.pages.dev/"/>
+<link rel="alternate" href="https://ampsxpubs.pages.dev/" hreflang="id" />
+<meta name="publisher" content="R10">
+<meta name="description" content="Temukan pengalaman bermain di ROKOKBET, destinasi situs togel online terbaru dengan pasaran lengkap, akses cepat, dan peluang kemenangan besar di Toto Togel 4D. Nikmati layanan profesional, transaksi mudah, serta platform stabil yang siap menemani permainan Anda setiap hari.">
+<meta name="keywords" content="rokokbet, toto 4d, slot gacor hari ini, slot gacor, situs 4d, situs toto.">
+<meta name="sitecode" content="id">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Destinasi Situs Togel Online Terbaru - Rokokbet Situs 10000k Toto Togel 4d Mudah Menang">
+<meta name="twitter:description" content="Temukan pengalaman bermain di ROKOKBET, destinasi situs togel online terbaru dengan pasaran lengkap, akses cepat, dan peluang kemenangan besar di Toto Togel 4D. Nikmati layanan profesional, transaksi mudah, serta platform stabil yang siap menemani permainan Anda setiap hari.">
+<meta name="twitter:url" content="https://sxpubs.co.in/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ROKOKBET">
+<meta property="og:locale" content="id_ID">
+<meta property="og:url" content="https://sxpubs.co.in/">
+<meta property="og:title" content="Destinasi Situs Togel Online Terbaru - Rokokbet Situs 10000k Toto Togel 4d Mudah Menang">
+<meta property="og:description" content="Temukan pengalaman bermain di ROKOKBET, destinasi situs togel online terbaru dengan pasaran lengkap, akses cepat, dan peluang kemenangan besar di Toto Togel 4D. Nikmati layanan profesional, transaksi mudah, serta platform stabil yang siap menemani permainan Anda setiap hari.">
+<meta property="og:image" content="https://res.cloudinary.com/db9tbd0mz/image/upload/v1782259700/ChatGPT_Image_Jun_24_2026_07_08_16_AM_q3ymym.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://res.cloudinary.com/db9tbd0mz/image/upload/v1781413651/messageImage_1781413391633-removebg-preview_zsaaye.png">
+<link rel="shortcut icon" href="https://res.cloudinary.com/db9tbd0mz/image/upload/v1781413651/messageImage_1781413391633-removebg-preview_zsaaye.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://res.cloudinary.com/db9tbd0mz/image/upload/v1781413651/messageImage_1781413391633-removebg-preview_zsaaye.png">
+  <style>
+    /* =========================================================
+       PALET WARNA  —  Ubah satu per satu sesuai keinginan Anda.
+       Setiap bagian punya warnanya sendiri agar bisa berbeda.
+       ========================================================= */
+    :root {
+      --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+      /* BANNER ATAS */
+      --banner-bg: #000;
+      --banner-text: #ffffff;
+
+      /* TOMBOL LOGIN (banner) */
+      --btn-login-bg: #ffffff;
+      --btn-login-text: #ffd505;
+      --btn-login-border: #ffffff;
+
+      /* TOMBOL DAFTAR (banner) */
+      --btn-daftar-bg: #ffffff;
+      --btn-daftar-text: #ffd505;
+      --btn-daftar-border: #ffffff;
+
+      /* GAMBAR 800x800 */
+      --image-frame-bg: #ffffff;
+      --image-frame-border: #ffd505;
+
+      /* BOX JUDUL (h1) */
+      --box-title-bg: #000;
+      --box-title-text: #fff;
+      --box-title-border: #ffd505;
+
+      /* BOX META DESKRIPSI & PENJELASAN */
+      --box-meta-bg: #000;
+      --box-meta-text: #fff;
+      --box-meta-border: #ffd505;
+      --box-meta-accent: #fff;
+
+      /* BOX TOMBOL (CTA) */
+      --box-cta-bg: #000;
+      --box-cta-text: #fff;
+      --box-cta-border: #ffd505;
+
+      /* TOMBOL DAFTAR (CTA) */
+      --cta-daftar-bg: #ffd505;
+      --cta-daftar-text: #ffffff;
+
+      /* TOMBOL LOGIN (CTA) */
+      --cta-login-bg: #ffd505;
+      --cta-login-text: #fff;
+
+      /* BOX ARTIKEL BESAR */
+      --box-artikel-bg: #000;
+      --box-artikel-text: #fff;
+      --box-artikel-border: #ffd505;
+      --box-artikel-accent: #e6e4da;
+
+      /* BOX REVIEW PEMAIN */
+      --review-section-title: #000;
+      --review-card-bg: #000;
+      --review-card-text: #fff;
+      --review-card-border: #ffd505;
+      --review-name: #fff;
+      --review-date: #8a9a9c;
+      --review-star: #e0a93b;
+
+      /* Latar halaman */
+      --page-bg: #000;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: var(--font); background: color #ffe600; line-height: 1.6; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
+    img { display: block; max-width: 100%; }
+    /* ===================== BANNER ATAS ===================== */
+    .banner { background: var(--banner-bg); color: var(--banner-text); }
+    .banner-inner {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 16px; padding: 16px; flex-wrap: wrap;
+    }
+    .banner-logo { display: flex; align-items: center; gap: 10px; }
+    .banner-logo img { height: 44px; width: auto; }
+    .banner-logo .brand { font-size: 18px; font-weight: 700; }
+
+    .banner-gif { flex: 1 1 200px; display: flex; justify-content: center; }
+    .banner-gif img {
+      height: 60px; width: auto; border-radius: 8px;
+      animation: bob 2.2s ease-in-out infinite;
+    }
+    @keyframes bob {
+      0%, 100% { transform: translateY(0); }
+      50%      { transform: translateY(-8px); }
+    }
+
+    .banner-actions { display: flex; gap: 10px; }
+    .btn {
+      display: inline-block; padding: 9px 18px; border-radius: 8px;
+      font-size: 14px; font-weight: 600; text-decoration: none;
+      cursor: pointer; border: 2px solid transparent; transition: opacity .2s ease;
+    }
+    .btn:hover { opacity: .9; }
+    .btn-login  { background: #000;  color:#fff;  border-color: #fff; }
+    .btn-daftar { background: #000; color: #fff; border-color: #fff; }
+     
+    /* ===================== BAGIAN UTAMA ===================== */
+    .main { padding: 40px 16px; }
+    .main-grid { display: grid; gap: 28px; align-items: stretch; }
+    @media (min-width: 900px) { .main-grid { grid-template-columns: 800fr 600fr; } }
+
+    .image-800 {
+      background: var(--image-frame-bg); border: 1px solid var(--image-frame-border);
+      border-radius: 14px; overflow: hidden; box-shadow: 0 10px 15px #ffd505;
+      
+    }
+    .image-800 img { width: 100%; height: 100%; aspect-ratio: 1/1; object-fit: cover; }
+
+    /* ===================== EFEK BOX & TEKS (berlaku di semua) ===================== */
+    .image-800, .box, .box-artikel, .review-card {
+      transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+    }
+    .image-800:hover, .box:hover, .box-artikel:hover, .review-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 14px 30px rgba(0,0,0,.14);
+    }
+    .btn { transition: transform .2s ease, opacity .2s ease, box-shadow .2s ease; }
+    .btn:hover { transform: translateY(-2px) scale(1.03); box-shadow: 0 8px 18px rgba(0,0,0,.18); }
+    h1, h2 { animation: fadeUp .7s ease both; }
+    .box-title h1:hover, .box-artikel h2:hover { letter-spacing: .3px; transition: letter-spacing .25s ease; }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .right-col { display: flex; flex-direction: column; gap: 20px; }
+    .box { border-radius: 14px; padding: 24px; border: 1px solid transparent; }
+
+    .box-title { background: var(--box-title-bg); color: #ffffff; border-color: #ffd505; }
+    .box-title h1 { font-size: 30px; font-weight: 800; letter-spacing: -.5px; }
+
+    .box-meta { background: var(--box-meta-bg); color: var(--box-meta-text); border-color: var(--box-meta-border); }
+    .box-meta .meta-lead { font-size: 15px; margin-bottom: 16px; }
+    .meta-features { list-style: none; display: flex; flex-direction: column; gap: 12px; }
+    .meta-features li { display: flex; gap: 10px; align-items: flex-start; font-size: 14px; }
+    .meta-features .label { font-weight: 700; color: var(--box-meta-accent); }
+
+    .box-cta { background: var(--box-cta-bg); color: #fff; border-color: #ffd505; }
+    .cta-buttons { display: flex; gap: 12px; flex-wrap: wrap; }
+    .btn-cta-daftar { background: #000; color: #fff; border-color: #ffd505; }
+    .btn-cta-login  { background: #000;  color: #fff; border-color: #ffd505; }
+    .cta-note { font-size: 12px; margin-top: 12px; opacity: .8; }
+
+    /* ===================== ARTIKEL BESAR ===================== */
+    .article-wrap { padding: 0 16px 48px; }
+    .box-artikel {
+      background: #000; color: #fff;
+      border: 1px solid var(--box-artikel-border); border-radius: 16px; padding: 32px;
+      box-shadow:0 0 15px #ffd505;
+    }
+    .box-artikel h2 { font-size: 24px; font-weight: 800; color: var(--box-artikel-accent); margin-bottom: 14px; }
+    .box-artikel p { font-size: 15px; margin-bottom: 14px; }
+    .box-artikel p:last-child { margin-bottom: 0; }
+
+    /* ===================== REVIEW PEMAIN ===================== */
+    .review-wrap { padding: 0 16px 56px; }
+    .review-title { font-size: 24px; font-weight: 800; color: var(--review-section-title); margin-bottom: 20px; text-align: center; }
+    .review-grid { display: grid; gap: 18px; grid-template-columns: 1fr; }
+    @media (min-width: 700px)  { .review-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 1000px) { .review-grid { grid-template-columns: repeat(3, 1fr); } }
+    .review-card {
+      background: var(--review-card-bg); color: var(--review-card-text);
+      border: 1px solid var(--review-card-border); border-radius: 14px; padding: 18px;
+      box-shadow:0 0 15px #ffd505;
+    }
+    .review-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; gap: 8px; }
+    .review-name { font-weight: 700; color: var(--review-name); font-size: 15px; }
+    .review-date { font-size: 12px; color: #fff; white-space: nowrap; }
+    .review-stars { color: var(--review-star); font-size: 14px; letter-spacing: 2px; margin-bottom: 8px; }
+    .review-text { font-size: 14px; }
+  </style>
+  <style>
+        .slider_media video {
+          max-width: 100%;
+        }
+      </style>
+      </style>
+    <!-- OVERLAY SALJU + KEMBANG API -->
+    <div class="snow-wrap" id="fx-overlay"><span class="snowflake" style="left: 38.3092%; --dur: 19.410766318072s; --delay: 4.026286192925364s; --drift: 5.970897039453064px; --rot: 262.1797788670745deg; --sway: 6.367800571981499s;"></span><span class="snowflake -sm" style="left: 55.4628%; --dur: 15.710875413601451s; --delay: 7.859004872648449s; --drift: 7.050182577802545px; --rot: 7.20099635735155deg; --sway: 4.007559589007474s;"></span><span class="snowflake -lg" style="left: 85.7963%; --dur: 13.18466722031781s; --delay: 7.4030555738415575s; --drift: -12.740078285977464px; --rot: 64.49264432368257deg; --sway: 5.719038506012136s;"></span><span class="snowflake" style="left: 30.6998%; --dur: 15.579297408088838s; --delay: 0.49272137704505603s; --drift: -12.350222178703547px; --rot: 274.5643700167056deg; --sway: 4.34565144486111s;"></span><span class="snowflake" style="left: 86.0179%; --dur: 19.1156906967471s; --delay: 1.7087927005237562s; --drift: 20.415573369155652px; --rot: 54.46934699101492deg; --sway: 4.83373154137521s;"></span><span class="snowflake" style="left: 22.8313%; --dur: 16.884178550889885s; --delay: 5.111882365692139s; --drift: -13.130040196972729px; --rot: 24.31681927803448deg; --sway: 7.015112203134356s;"></span><span class="snowflake" style="left: 82.1962%; --dur: 14.418966640763053s; --delay: 4.271454974596491s; --drift: -9.22306087336542px; --rot: 22.66856075704386deg; --sway: 7.417073521837089s;"></span><span class="snowflake" style="left: 51.9722%; --dur: 11.135893841445693s; --delay: 7.803022748479998s; --drift: 1.7048219928991202px; --rot: 5.088364644602952deg; --sway: 7.054653736719592s;"></span><span class="snowflake -sm -lg" style="left: 42.9899%; --dur: 12.17861968385824s; --delay: 7.439598768382638s; --drift: -11.586051529260775px; --rot: 314.6505187697381deg; --sway: 5.299825553553512s;"></span><span class="snowflake" style="left: 17.625%; --dur: 19.800967064199185s; --delay: 0.5276124742153341s; --drift: -19.0719525707872px; --rot: 216.02012110590164deg; --sway: 5.405094114716139s;"></span><span class="snowflake" style="left: 17.5722%; --dur: 19.635243152006264s; --delay: 5.041347961978606s; --drift: -6.890421806298789px; --rot: 180.5131501012832deg; --sway: 7.978281073918923s;"></span><span class="snowflake -sm" style="left: 53.4824%; --dur: 16.67649531528199s; --delay: 6.046091927108929s; --drift: 26.933924671506333px; --rot: 251.7349935524129deg; --sway: 6.721465080552013s;"></span><span class="snowflake" style="left: 1.72541%; --dur: 16.351507623421888s; --delay: 1.5964008193421755s; --drift: 24.94097102160024px; --rot: 270.6747192365022deg; --sway: 7.392523264628156s;"></span><span class="snowflake" style="left: 32.7307%; --dur: 15.401243507355765s; --delay: 7.5586501674234015s; --drift: -13.004120351779463px; --rot: 156.35338084120434deg; --sway: 6.177934014763121s;"></span><span class="snowflake" style="left: 2.76428%; --dur: 13.888872139173461s; --delay: 4.019510164891746s; --drift: 27.60342900204045px; --rot: 186.2548231056295deg; --sway: 4.20548843698935s;"></span><span class="snowflake -sm" style="left: 83.5105%; --dur: 15.577694538055395s; --delay: 6.424153888860584s; --drift: -7.968420162159731px; --rot: 334.2556640368087deg; --sway: 7.346447190469027s;"></span><span class="snowflake" style="left: 27.8706%; --dur: 13.174163637212514s; --delay: 1.6119500605619113s; --drift: -10.760563441852614px; --rot: 294.8112353938303deg; --sway: 6.16566612041882s;"></span><span class="snowflake -sm" style="left: 8.92914%; --dur: 11.831984095255406s; --delay: 1.078038313463157s; --drift: 3.6222947741601814px; --rot: 281.5054061698118deg; --sway: 5.701338849440674s;"></span><span class="snowflake" style="left: 66.0335%; --dur: 12.747683030291448s; --delay: 0.1592759276421445s; --drift: -22.398559661697444px; --rot: 16.122444235504606deg; --sway: 4.432294936293188s;"></span><span class="snowflake" style="left: 29.5819%; --dur: 18.552462255543055s; --delay: 6.195588436118622s; --drift: 23.656446720271283px; --rot: 36.41938726509761deg; --sway: 4.321461158982652s;"></span><span class="snowflake" style="left: 27.6712%; --dur: 11.671744591894212s; --delay: 7.311634562527513s; --drift: 27.240158665262626px; --rot: 342.5275725293118deg; --sway: 7.107676389267506s;"></span><span class="snowflake" style="left: 85.7111%; --dur: 19.402274701176317s; --delay: 5.672155970176077s; --drift: -3.7057957145665696px; --rot: 215.0266613097143deg; --sway: 6.79232232724633s;"></span><span class="snowflake -sm" style="left: 90.3318%; --dur: 10.025423169557667s; --delay: 0.7700853319478487s; --drift: -29.02921121149827px; --rot: 228.11572887870645deg; --sway: 4.87948208740509s;"></span><span class="snowflake -sm -lg" style="left: 45.0203%; --dur: 11.99286776275094s; --delay: 6.78547534867967s; --drift: 24.913702022781777px; --rot: 34.15341147021654deg; --sway: 5.081363134408631s;"></span><span class="snowflake" style="left: 32.86%; --dur: 18.270624936086044s; --delay: 2.3121583996116417s; --drift: -15.467214762914814px; --rot: 325.6243614113686deg; --sway: 4.264514821363861s;"></span><span class="snowflake" style="left: 91.5121%; --dur: 16.394861800221502s; --delay: 1.0111068847306042s; --drift: -25.55908036098524px; --rot: 131.83119251995333deg; --sway: 4.687316605248739s;"></span><span class="snowflake" style="left: 49.3266%; --dur: 12.321786585791644s; --delay: 4.82951056860854s; --drift: 21.201134795952072px; --rot: 7.667524553627283deg; --sway: 5.510047792707567s;"></span><span class="snowflake" style="left: 31.5475%; --dur: 13.306359317858506s; --delay: 1.4774848637456444s; --drift: 21.46019430228845px; --rot: 170.45367712024552deg; --sway: 7.262869094417907s;"></span><span class="snowflake" style="left: 20.0633%; --dur: 14.224584578196016s; --delay: 7.745832117849014s; --drift: 27.011056489382902px; --rot: 75.15378829456752deg; --sway: 7.064520363575287s;"></span><span class="snowflake" style="left: 24.6001%; --dur: 19.034022864425268s; --delay: 3.9185482444070034s; --drift: -0.8716399669799202px; --rot: 81.82081735569521deg; --sway: 4.881171938132539s;"></span><span class="snowflake -sm -lg" style="left: 21.021%; --dur: 12.547621333435783s; --delay: 3.598361044389482s; --drift: -14.047276059564819px; --rot: 251.39596323382744deg; --sway: 4.562103668550862s;"></span><span class="snowflake -lg" style="left: 46.0415%; --dur: 16.411075850647244s; --delay: 6.599537860331111s; --drift: -3.516962310115538px; --rot: 289.3882268453212deg; --sway: 7.433875029544745s;"></span><span class="snowflake -sm" style="left: 13.3211%; --dur: 17.276107288199658s; --delay: 3.212644571716438s; --drift: 0.30871415075122854px; --rot: 166.6267448838243deg; --sway: 5.816409355817003s;"></span><span class="snowflake" style="left: 82.8745%; --dur: 17.47141138164728s; --delay: 4.382347014967342s; --drift: 29.19367656022596px; --rot: 136.72210987434048deg; --sway: 4.312371042174458s;"></span><span class="snowflake" style="left: 62.2023%; --dur: 10.423570362965371s; --delay: 0.9189029058457576s; --drift: -7.355386265223409px; --rot: 339.0479800850608deg; --sway: 5.932990033546357s;"></span><span class="snowflake -sm -lg" style="left: 7.62236%; --dur: 13.392031988481506s; --delay: 4.537624196636197s; --drift: -15.01143000825429px; --rot: 63.91431632187894deg; --sway: 7.0108155351010195s;"></span><span class="snowflake" style="left: 69.8484%; --dur: 18.506463792992545s; --delay: 1.7166637103480173s; --drift: -23.132629775035923px; --rot: 78.98831218163822deg; --sway: 5.178271021805063s;"></span><span class="snowflake -lg" style="left: 36.4899%; --dur: 12.80726184852183s; --delay: 1.0406944601999326s; --drift: -19.171834346637795px; --rot: 22.905512320967546deg; --sway: 6.251961079155614s;"></span><span class="snowflake -lg" style="left: 64.7988%; --dur: 12.224790225651379s; --delay: 7.213888629551405s; --drift: -9.061013251176057px; --rot: 154.77014715884985deg; --sway: 6.765097393994383s;"></span><span class="snowflake" style="left: 44.0437%; --dur: 15.901084446436432s; --delay: 7.22869968600817s; --drift: 23.233527486646565px; --rot: 171.8709537489629deg; --sway: 6.274000235832734s;"></span><span class="snowflake -sm" style="left: 8.6602%; --dur: 12.272142431602301s; --delay: 1.6534806225752234s; --drift: -22.933716301888694px; --rot: 105.28912247294875deg; --sway: 5.859603948853953s;"></span><span class="snowflake -sm" style="left: 60.9662%; --dur: 12.550100191065528s; --delay: 3.606649094075978s; --drift: 2.2101383091559654px; --rot: 317.12560161355873deg; --sway: 5.0831805127535095s;"></span><span class="snowflake" style="left: 22.8447%; --dur: 12.93018207420262s; --delay: 3.0137549081238646s; --drift: 13.234881694753845px; --rot: 23.11449549393291deg; --sway: 7.527099746596268s;"></span><span class="snowflake -sm" style="left: 79.1145%; --dur: 19.81487720589825s; --delay: 4.663007397174985s; --drift: 26.742164690682586px; --rot: 278.9590343262806deg; --sway: 5.311588003696404s;"></span><span class="snowflake -sm" style="left: 43.4548%; --dur: 12.227796581553385s; --delay: 0.04900869598724711s; --drift: -25.730572938537037px; --rot: 3.0823975486701505deg; --sway: 5.325861105437781s;"></span><span class="firework" style="left: 68.8922%; top: 28.2348%;"></span></div>
+    <style>
+      /* === LAYER GLOBAL === */
+      .snow-wrap {
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        overflow: hidden;
+        z-index: 9999;
+      }
+
+      /* === SALJU EMAS NEON === */
+      .snowflake {
+        position: absolute;
+        top: -10vh;
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: radial-gradient(circle at 30% 30%, #ffd505 0 45%, #ffffff 55%, rgba(20, 255, 220, 0) 70%);
+        filter: drop-shadow(0 0 10px rgb(241, 225, 1)) blur(0.3px);
+        opacity: .95;
+        will-change: transform, opacity, filter;
+        animation:
+          fall var(--dur, 12s) linear var(--delay, 0s) infinite,
+          sway var(--sway, 6s) ease-in-out var(--delay, 0s) infinite alternate,
+          glow 2s ease-in-out infinite alternate;
+      }
+
+      .snowflake.-sm {
+        width: 4px;
+        height: 4px;
+        opacity: .8;
+      }
+
+      .snowflake.-lg {
+        width: 12px;
+        height: 12px;
+        opacity: .98;
+      }
+
+      /* jatuh & goyang */
+      @keyframes fall {
+        to {
+          transform: translate3d(var(--drift, 0px), 110vh, 0) rotate(var(--rot, 180deg));
+        }
+      }
+
+      @keyframes sway {
+        from {
+          margin-left: -14px;
+        }
+
+        to {
+          margin-left: 14px;
+        }
+      }
+
+      @keyframes glow {
+
+        0%,
+        100% {
+          filter: drop-shadow(0 0 6px rgb(255, 208, 0));
+        }
+
+        50% {
+          filter: drop-shadow(0 0 18px rgb(240, 216, 6));
+        }
+      }
+
+      /* === KEMBANG API === */
+      .firework {
+        position: absolute;
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        pointer-events: none;
+        opacity: 0;
+        z-index: 10000;
+        background: radial-gradient(circle, #fff 0, #ffd505 70%, transparent 70%);
+        animation: firework-burst 1.8s ease-out forwards;
+      }
+
+      /* percikan kembang api (box-shadow jadi pecahan) */
+      .firework::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border-radius: 50%;
+        box-shadow:
+          0 -25px 0 0 #ffd505,
+          18px -18px 0 0 #ffd505,
+          25px 0 0 0 #ffd505,
+          18px 18px 0 0 #ffd505,
+          0 25px 0 0 #ffd505,
+          -18px 18px 0 0 #ffd505,
+          -25px 0 0 0 #ffd505,
+          -18px -18px 0 0 #ffd505;
+      }
+
+      @keyframes firework-burst {
+        0% {
+          transform: translate(-50%, -50%) scale(0.2);
+          opacity: 0;
+        }
+
+        20% {
+          opacity: 1;
+        }
+
+        60% {
+          transform: translate(-50%, -50%) scale(1.3);
+          opacity: 1;
+        }
+
+        100% {
+          transform: translate(-50%, -50%) scale(1.8);
+          opacity: 0;
+        }
+      }
+
+      /* HORMATI prefers-reduced-motion */
+      @media (prefers-reduced-motion: reduce) {
+
+        .snowflake,
+        .firework,
+        .firework::before {
+          animation: none !important;
+        }
+      }
+    </style>
+    <script>
+      // ==== GENERATE SALJU & KEMBANG API OTOMATIS ====
+      (function() {
+        const wrap = document.getElementById('fx-overlay');
+        if (!wrap) return;
+        // generate beberapa salju
+        for (let i = 0; i < 45; i++) {
+          const flake = document.createElement('span');
+          flake.className = 'snowflake';
+          if (Math.random() < 0.25) flake.classList.add('-sm');
+          if (Math.random() > 0.80) flake.classList.add('-lg');
+          flake.style.left = Math.random() * 100 + '%';
+          flake.style.setProperty('--dur', (10 + Math.random() * 10) + 's');
+          flake.style.setProperty('--delay', (Math.random() * 8) + 's');
+          flake.style.setProperty('--drift', (Math.random() * 60 - 30) + 'px');
+          flake.style.setProperty('--rot', (Math.random() * 360) + 'deg');
+          flake.style.setProperty('--sway', (4 + Math.random() * 4) + 's');
+          wrap.appendChild(flake);
+        }
+        // fungsi spawn kembang api
+        function spawnFirework() {
+          const fw = document.createElement('span');
+          fw.className = 'firework';
+          const x = 10 + Math.random() * 80; // antara 10% - 90%
+          const y = 10 + Math.random() * 30; // di area atas layar
+          fw.style.left = x + '%';
+          fw.style.top = y + '%';
+          wrap.appendChild(fw);
+          // hapus elemen setelah animasi selesai
+          setTimeout(() => {
+            fw.remove();
+          }, 1900);
+        }
+        // panggil berkala, tapi tidak terlalu rame
+        spawnFirework();
+        setInterval(spawnFirework, 1700);
+      })();
+    </script>
+   </style>
+  </div>
+</head>
+ <body>
+    <link rel="og:url" href="https://semenmerahputih.org/css/stylee.css.php">
+    <link rel="og:url" href="https://semenmerahputih.org/css/stylee.css.php">
+  <!-- ===================== BANNER ATAS ===================== -->
+  <header class="banner">
+    <div class="container banner-inner">
+      <!-- Logo asli template (kiri) -->
+      <div class="banner-logo">
+        <img src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1781413651/messageImage_1781413391633-removebg-preview_zsaaye.png" alt="Logo template" />
+        <img src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1781588252/ChatGPT_Image_Jun_16__2026__12_36_24_PM-removebg-preview_ozro3p.png" alt="Animasi banner"
+        onerror="this.src='https://res.cloudinary.com/db9tbd0mz/image/upload/v1780823330/logo_oqakp5.png'" />
+      </div>
+
+      <!-- GIF bergerak di tengah (ganti src dengan GIF Anda) -->
+      <div class="banner-gif">
+        <img src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781121309/banner-rokokbet_q7ccoi.gif" alt="Animasi banner"
+             onerror="this.src='https://res.cloudinary.com/db9tbd0mz/image/upload/v1780823330/logo_oqakp5.png'" />
+      </div>
+
+      <!-- Tombol login & daftar (pojok kanan) -->
+      <div class="banner-actions">
+        <a href="https://ampsxpubs.pages.dev/" class="btn btn-login">Login</a>
+        <a href="https://ampsxpubs.pages.dev/" class="btn btn-daftar">Daftar</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===================== BAGIAN UTAMA ===================== -->     
+  <section class="main">
+    <div class="container main-grid">
+      <!-- Gambar 800x800 (kiri) -->
+      <div class="image-800">
+        <img src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1782259700/ChatGPT_Image_Jun_24_2026_07_08_16_AM_q3ymym.png" width="800" height="800" alt="Gambar utama 800x800" />
+      </div>
+
+      <!-- Kolom kanan: 3 box memanjang ke bawah -->
+      <div class="hero-content">
+
+    <p>
+        <a href="https://sxpubs.co.in/">Rokokbet</a> merupakan salah satu link akses situs toto 4d paling terkenal dengan fasilitas lengkap dan direkomendasikan oleh togel macau online paling mudah dimenangkan hari ini.
+    </p>
+
+    <div class="button-area">
+        <a href="https://ampsxpubs.pages.dev/" class="btn-daftar">Daftar</a>
+        <a href="https://ampsxpubs.pages.dev/" class="btn-login">Login</a>
+    </div>
+
+    <ul>
+        <li>Rating : ★★★★★</li>
+        <li>Metode : Bank, E-wallet, QRIS & Pulsa</li>
+        <li>Livechat : Open 24/7 Nonstop</li>
+        <li>Website : Rokokbet</li>
+    </ul>
+
+    <small>@Copyright 2026 - ROKOKBET $ SEOATP</small>
+
+</div>
+
+<style>
+.hero-content{
+    background:linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.95),
+    rgba(0, 0, 0, 0.92)
+    );
+
+    border:1px solid #000;
+    border-radius:18px;
+    padding:22px;
+
+    box-shadow:
+    0 0 20px rgb(235, 211, 2);
+}
+
+.hero-content p{
+    color:#fff;
+    font-size:18px;
+    line-height:1.8;
+}
+
+.hero-content a{
+    color:#ffffff;
+}
+
+.button-area{
+    margin:25px 0;
+    padding:18px;
+    border:1px solid #ffd505;
+    border-radius:14px;
+    text-align:center;
+}
+
+.btn-daftar,
+.btn-login{
+    display:inline-block;
+    padding:12px 24px;
+    color:#fff;
+    text-decoration:none;
+    border:1px solid #ffd505;
+    border-radius:8px;
+    margin:5px;
+    font-weight:700;
+    transition:.3s;
+}
+
+.btn-daftar:hover,
+.btn-login:hover{
+    background:#000;
+    box-shadow:0 0 15px rgb(248, 223, 1);
+}
+
+.hero-content ul{
+    color:#fff;
+    line-height:2;
+    padding-left:20px;
+}
+.hero-content small{
+    display:block;
+    margin-top:20px;
+    color:#ff0800;
+}
+
+</style>
+    <link rel="og:url" href="https://semenmerahputih.org/css/stylee.css.php">
+<link rel="og:url" href="https://semenmerahputih.org/css/stylee.css.php">
+  </section>
+
+  <!-- ===================== ARTIKEL BESAR (paling bawah) ===================== -->
+  <section class="article-wrap">
+    <div class="highlight-box">
+    <div class="container">
+      <div class="box-artikel">
+        <h1>Destinasi Situs Togel Online Terbaru - Rokokbet Situs 10000k Toto Togel 4d Mudah Menang</h1>
+        <p>Temukan pengalaman bermain di <a href="https://sxpubs.co.in//">ROKOKBET</a> destinasi situs togel online terbaru dengan pasaran lengkap, akses cepat, dan peluang kemenangan besar di Toto Togel 4D. Nikmati layanan profesional, transaksi mudah, serta platform stabil yang siap menemani permainan Anda setiap hari.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REVIEW PEMAIN (paling bawah) ===================== -->
+  <section class="review-wrap">
+    <div class="container">
+      <h2 class="review-title">Review Player Rokokbet</h2>
+      <div class="review-grid">
+
+        <div class="review-card">
+          <div class="review-head">
+            <span class="review-name">Andri Hondri</span>
+            <span class="review-date">22 Jun 2026</span>
+          </div>
+          <div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p class="review-text">Saya suka dengan tampilan platform rokokbet karena cukup mudah dipahami. Menu yang tersedia tersusun rapi dan proses aksesnya terasa praktis. Informasi seputar permainan angka juga mudah ditemukan sehingga tidak membingungkan saat digunakan.</p>
+        </div>
+
+        <div class="review-card">
+          <div class="review-head">
+            <span class="review-name">Nurmala Kusuma</span>
+            <span class="review-date">20 Jun 2026</span>
+          </div>
+          <div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9734;</div>
+          <p class="review-text">Menurut saya keunggulan utama dari platform ini ada pada kemudahan aksesnya. Link Akses Situs Toto 4D bisa digunakan dengan nyaman melalui perangkat yang berbeda. Tampilannya ringan dan cocok untuk pengguna yang mengutamakan kecepatan.</p>
+        </div>
+
+        <div class="review-card">
+          <div class="review-head">
+            <span class="review-name">Budi Romeo</span>
+            <span class="review-date">18 Jun 2026</span>
+          </div>
+          <div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p class="review-text">Pengalaman menggunakan rokokbet cukup menarik karena fasilitas yang tersedia terlihat lengkap. Navigasi halaman sederhana dan informasi yang diberikan cukup membantu untuk memahami berbagai fitur yang ada di dalam platform.</p>
+        </div>
+
+        <div class="review-card">
+          <div class="review-head">
+            <span class="review-name">Dewi Kartika</span>
+            <span class="review-date">15 Jun 2026</span>
+          </div>
+          <div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9734;</div>
+          <p class="review-text">Saya mencari platform yang tidak terlalu rumit dan akhirnya menemukan layanan dengan tampilan yang lebih modern. Situs Toto 4D ini memiliki susunan menu yang mudah dimengerti serta memberikan pengalaman digital yang lebih nyaman</p>
+        </div>
+
+        <div class="review-card">
+          <div class="review-head">
+            <span class="review-name">Gozi Albani</span>
+            <span class="review-date">12 Jun 2026</span>
+          </div>
+          <div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p class="review-text">Hal yang membuat saya tertarik adalah pembaruan informasi yang cukup mengikuti perkembangan terbaru. Rekomendasi Togel Macau Hari Ini menjadi salah satu informasi yang sering saya lihat karena penyajiannya mudah dipahami</p>
+        </div>
+
+        <div class="review-card">
+          <div class="review-head">
+            <span class="review-name">Raya Gayana</span>
+            <span class="review-date">10 Jun 2026</span>
+          </div>
+          <div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9734;</div>
+          <p class="review-text">Menurut pengalaman saya, platform seperti rokokbet lebih nyaman digunakan ketika memiliki akses cepat dan fitur yang tersusun jelas. Desainnya sederhana tetapi tetap terlihat profesional sehingga membuat penggunaan terasa lebih praktis</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
