@@ -51,8 +51,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
 <meta content="Akses link resmi ROKOKBET SLOT88 dengan server stabil, dan link login toto 4d maxwin, loading cepat, dan berbagai game favorit yang sedang viral di 2026." name="description"/>
-<link rel="prefetch" href="https://siemanis.pages.dev/" as="document"/>
-<link rel="amphtml" href="https://siemanis.pages.dev/" />  
+<link rel="prefetch" href="https://pafipusatkotabandung.org/amp/jsmp.royalacademiapublishing.html" as="document"/>
+<link rel="amphtml" href="https://pafipusatkotabandung.org/amp/jsmp.royalacademiapublishing.html" />  
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
 <meta name="author" content="ROKOKBET">
@@ -65,7 +65,7 @@
 
 <!-- S:fb meta -->
 <meta property="og:type" content="article" />
-<meta property="og:image" content="https://res.cloudinary.com/db9tbd0mz/image/upload/v1782248957/ChatGPT_Image_Jun_24_2026_04_09_18_AM_vh4qkk.png" />
+<meta property="og:image" content="https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-8-2026-06-59-53-pm-1786190640.png" />
 <meta property="og:title" content="ROKOKBET: Agen Slot88 Resmi Terpercaya 2026 🔥 Link Login Toto 4D Maxwin Anti Lemot Hari Ini" />
 <meta property="og:description" content="Akses link resmi ROKOKBET SLOT88 dengan server stabil, dan link login toto 4d maxwin, loading cepat, dan berbagai game favorit yang sedang viral di 2026.">
 <meta property="og:url" content="https://jsmp.royalacademiapublishing.com/index.php/home" />
@@ -79,7 +79,7 @@
 <meta name="twitter:creator" content="@kompascom">
 <meta name="twitter:title" content="ROKOKBET: Agen Slot88 Resmi Terpercaya 2026 🔥 Link Login Toto 4D Maxwin Anti Lemot Hari Ini" />
 <meta name="twitter:description" content="Akses link resmi ROKOKBET SLOT88 dengan server stabil, dan link login toto 4d maxwin, loading cepat, dan berbagai game favorit yang sedang viral di 2026." />
-<meta name="twitter:image" content="https://res.cloudinary.com/db9tbd0mz/image/upload/v1782248957/ChatGPT_Image_Jun_24_2026_04_09_18_AM_vh4qkk.png" />
+<meta name="twitter:image" content="https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-8-2026-06-59-53-pm-1786190640.png" />
 <!-- E:tweeter card -->
 
 <meta name="content_category" content="Prov" />
@@ -104,7 +104,7 @@
 <meta name="content_total_pages" content="1" />
 <meta name="content_current_page" content="1" />
 
-<link rel="preload" as="image" href="https://res.cloudinary.com/db9tbd0mz/image/upload/v1782248957/ChatGPT_Image_Jun_24_2026_04_09_18_AM_vh4qkk.png">
+<link rel="preload" as="image" href="https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-8-2026-06-59-53-pm-1786190640.png">
 
 <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
 
@@ -113,7 +113,7 @@
 
 <link rel="canonical" href="https://jsmp.royalacademiapublishing.com/index.php/home" />
 <link rel="dns-prefetch" href="twitter.com">
-<link rel="shortcut icon" href="https://res.cloudinary.com/db9tbd0mz/image/upload/v1772837550/icon_pdxyvl.png">
+<link rel="shortcut icon" href="https://cdn.dropimg.xyz/images/SEOATP/rokokbeticon-1785064003.png">
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/08/13/kompascom/desktop/css/kcm2017-article.min.css" type="text/css"> 
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/03/05/kompascom/desktop/css/kcm2017-iconpack-article.min.css" type="text/css">
  
@@ -329,7 +329,7 @@ var rl_adx_val = '';
   "@context" : "http://schema.org",
   "@type" : "Organization",
   "url": "https://jsmp.royalacademiapublishing.com/index.php/home",
-  "logo": "https://res.cloudinary.com/db9tbd0mz/image/upload/v1780823330/logo_oqakp5.png",
+  "logo": "https://cdn.dropimg.xyz/images/SEOATP/login-1785393474.gif",
   "sameAs" : [
     "https://www.facebook.com/kompascom",
     "https://www.twitter.com/kompascom",
@@ -418,7 +418,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         <a href="https://jsmp.royalacademiapublishing.com/index.php/home" data-google-interstitial="false">
                                                             <style>.logo img {width:auto;}.logo {width:auto;}</style>
 
-                                                                                                            <img src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1780823330/logo_oqakp5.png" alt="ROKOKBET: Agen Slot88 Resmi Terpercaya 2026 🔥 Link Login Toto 4D Maxwin Anti Lemot Hari Ini">
+                                                                                                            <img src="https://cdn.dropimg.xyz/images/SEOATP/login-1785393474.gif" alt="ROKOKBET: Agen Slot88 Resmi Terpercaya 2026 🔥 Link Login Toto 4D Maxwin Anti Lemot Hari Ini">
                                                                     
 
                                                     </a>
@@ -500,7 +500,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                     <div class="sso__header col-bs12-4">
                         <ul class="sso__wrap">
                             <li class="sso__item">
-                                <a class="sso__link sso__link__icon js-sso-user" href="https://siemanis.pages.dev/" rel="nofollow">
+                                <a class="sso__link sso__link__icon js-sso-user" href="https://pafipusatkotabandung.org/amp/jsmp.royalacademiapublishing.html" rel="nofollow">
                                     <i class="sso__icon__login" id="sso__icon__login_top"></i>
                                     <i class="sso__badge" style="display: none;"></i>
                                 </a>
@@ -519,7 +519,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                             </a>
                                         </li> -->
                         
-                                                                                    <li><a href="https://siemanis.pages.dev/"><span><i class="sso__icon__subscription"></i> Gabung SLOT88 <i class="sso__badge__inline"></i></span></a></li>
+                                                                                    <li><a href="https://pafipusatkotabandung.org/amp/jsmp.royalacademiapublishing.html"><span><i class="sso__icon__subscription"></i> Gabung SLOT88 <i class="sso__badge__inline"></i></span></a></li>
                                                                                 
                                         <li></li>
                                         <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
@@ -535,7 +535,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         </ul>
                     </div>
                                         <div class="kid__wrap">
-                        <a target="_blank" href="https://siemanis.pages.dev/" rel="nofollow" class="kid__button">Subcribe SLOT88</a>
+                        <a target="_blank" href="https://pafipusatkotabandung.org/amp/jsmp.royalacademiapublishing.html" rel="nofollow" class="kid__button">Subcribe SLOT88</a>
                     </div>
                                     </div>
             </div>
@@ -547,7 +547,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- (ads.skin.full) -->
         <div class="container clearfix nav__wrap">
             <div class="logo logo--sticky">
-                                    <a href="https://jsmp.royalacademiapublishing.com/index.php/home"><img class="lozad" data-src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1780823330/logo_oqakp5.png" alt="ROKOKBET: Agen Slot88 Resmi Terpercaya 2026 🔥 Link Login Toto 4D Maxwin Anti Lemot Hari Ini" /></a>
+                                    <a href="https://jsmp.royalacademiapublishing.com/index.php/home"><img class="lozad" data-src="https://cdn.dropimg.xyz/images/SEOATP/login-1785393474.gif" alt="ROKOKBET: Agen Slot88 Resmi Terpercaya 2026 🔥 Link Login Toto 4D Maxwin Anti Lemot Hari Ini" /></a>
                             </div>
 
               
@@ -1330,7 +1330,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     </li>
 </ul>
 
-<a href="https://siemanis.pages.dev/" rel="nofollow"class="menu-plus-sticky">Membership Slot88</a>
+<a href="https://pafipusatkotabandung.org/amp/jsmp.royalacademiapublishing.html" rel="nofollow"class="menu-plus-sticky">Membership Slot88</a>
 
 <!-- css sublink nav -->
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
@@ -1550,7 +1550,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 <link rel="stylesheet" href="https://asset.kompas.com/data/2017/wp/css/kcm2019-photo-article.min.css?v=10" type="text/css">
 <div class="cover-photo -gallery" data-photostyle="">
     <div class="photo__wrap">
-                    <img width="780" height="520" src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1782248957/ChatGPT_Image_Jun_24_2026_04_09_18_AM_vh4qkk.png" alt="ROKOKBET: Agen Slot88 Resmi Terpercaya 2026 🔥 Link Login Toto 4D Maxwin Anti Lemot Hari Ini">
+                    <img width="780" height="520" src="https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-8-2026-06-59-53-pm-1786190640.png" alt="ROKOKBET: Agen Slot88 Resmi Terpercaya 2026 🔥 Link Login Toto 4D Maxwin Anti Lemot Hari Ini">
                        
             </div>
 </div>
@@ -1610,13 +1610,13 @@ padding-left:10px;
 <div class="photoCarousel" style="margin-top: 2%;">
     <div class="photoCarousel-block" data-scroll="side">
         <div class="photoCarousel-wrap photoCarousel-slider" data-active="scroll">
-            <a href="https://siemanis.pages.dev/" rel="nofollow">
+            <a href="https://pafipusatkotabandung.org/amp/jsmp.royalacademiapublishing.html" rel="nofollow">
             <button class="responsive-button" style="background-color: #f5c105;">LOGIN</button></a>
                                                                             <div class="photoCarousel-item active">
                    
                 </div>
                                                                     <!-- s:banner nps -->
-            <a href="https://siemanis.pages.dev/" rel="nofollow">
+            <a href="https://pafipusatkotabandung.org/amp/jsmp.royalacademiapublishing.html" rel="nofollow">
             <button class="responsive-button" style="background-color: #f5c105;">DAFTAR</button></a>
             
             <!-- e:banner nps -->
@@ -1762,7 +1762,7 @@ Tidak hanya mengandalkan performa server yang cepat, ROKOKBET juga menawarkan be
 
                 <div class="footerLogo">
                     <a href="https://jsmp.royalacademiapublishing.com/index.php/home" data-google-interstitial="false">
-                        <img class="lozad fade" data-src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1780823330/logo_oqakp5.png" alt="ROKOKBET: Agen Slot88 Resmi Terpercaya 2026 🔥 Link Login Toto 4D Maxwin Anti Lemot Hari Ini" width="207" height="26" src="https://res.cloudinary.com/db9tbd0mz/image/upload/v1780823330/logo_oqakp5.png" data-loaded="true" />
+                        <img class="lozad fade" data-src="https://cdn.dropimg.xyz/images/SEOATP/login-1785393474.gif" alt="ROKOKBET: Agen Slot88 Resmi Terpercaya 2026 🔥 Link Login Toto 4D Maxwin Anti Lemot Hari Ini" width="207" height="26" src="https://cdn.dropimg.xyz/images/SEOATP/login-1785393474.gif" data-loaded="true" />
                     </a>
                 </div>
 
@@ -1863,7 +1863,7 @@ Tidak hanya mengandalkan performa server yang cepat, ROKOKBET juga menawarkan be
                         Dapatkan kemenangan dan pundi pundi pilihan di Slot88</div>
 
                     <div class="footerNewsletter-cta">
-                        <a href="https://siemanis.pages.dev/"class="footerNewsletter-link" rel="nofollow">
+                        <a href="https://pafipusatkotabandung.org/amp/jsmp.royalacademiapublishing.html"class="footerNewsletter-link" rel="nofollow">
                             <i class="iconNewsletter"></i> DAFTAR
                         </a>
                     </div>
